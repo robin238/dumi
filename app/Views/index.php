@@ -11,7 +11,7 @@
 
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<title>Unika - Responsive One Page HTML5 Template</title>
+		<title>DUMI - Pinjaman Segala Kebutuhan</title>
 		<meta name="description" content="Unika - Responsive One Page HTML5 Template">
 		<meta name="keywords" content="HTML5, Bootsrtrap, One Page, Responsive, Template, Portfolio" />
 		<meta name="author" content="imransdesign.com">
@@ -72,16 +72,16 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                       </button>
-                      <a class="navbar-brand page-scroll" href="index.html">Unika</a>
+                      <a class="navbar-brand page-scroll" href="index.html">DUMI</a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a class="page-scroll" href="body">Home</a></li>
-                            <li><a class="page-scroll" href="#about-section">About</a></li>
-                            <li><a class="page-scroll" href="#services-section">Services</a></li>
-                            <li><a class="page-scroll" href="#portfolio-section">Works</a></li>
+                            <li><a class="page-scroll" href="body">Beranda</a></li>
+                            <li><a class="page-scroll" href="#about-section">Tentang Kami</a></li>
+                            <li><a class="page-scroll" href="#services-section">Kontak</a></li>
+                            <li><a class="page-scroll" href="#portfolio-section">Simulasi</a></li>
                             <li><a class="page-scroll" href="#team-section">Team</a></li>                            
                             <li><a class="page-scroll" href="#prices-section">Prices</a></li>
                             <li><a class="page-scroll" href="#contact-section">Contact</a></li>
@@ -98,7 +98,7 @@
             
             
         	<!-- Begin text carousel intro section -->
-			<section id="text-carousel-intro-section" class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(img/slider-bg.jpg);">
+			<section id="text-carousel-intro-section" class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(../assets/img/dumi/header_web.png);">
 				
 				<div class="container">
 					<div class="caption text-center text-white" data-stellar-ratio="0.7">
