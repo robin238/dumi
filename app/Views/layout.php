@@ -5,8 +5,12 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <title>Grand - Event and Conference Template</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>DUMI - Pinjaman Segala Kebutuhan</title>
+    <meta name="description" content="Unika - Responsive One Page HTML5 Template">
+    <meta name="keywords" content="HTML5, Bootsrtrap, One Page, Responsive, Template, Portfolio" />
+    <meta name="author" content="imransdesign.com">
+    <link rel="icon" type="image/x-icon" href="../assets/img/dumi/favicon_dumi.png">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
@@ -47,7 +51,7 @@
                         <span class="icon-menu"></span>
                     </button>
                     <a href="index.html" class="navbar-brand"><img src="assets/img/dumi/dumi_logo_white.png" alt=""
-                            style="height:50px;width:90px;"></a>
+                            style="height:40px;width:80px;"></a>
                 </div>
                 <div class="collapse navbar-collapse" id="main-navbar">
                     <ul class="navbar-nav mr-auto w-100 justify-content-end">
