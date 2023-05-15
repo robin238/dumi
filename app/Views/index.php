@@ -7,7 +7,6 @@
 	Version:	1.0	
 -->
 <html lang="en-US">
-
 <head>
 
     <meta charset="utf-8">
@@ -16,6 +15,7 @@
     <meta name="description" content="Unika - Responsive One Page HTML5 Template">
     <meta name="keywords" content="HTML5, Bootsrtrap, One Page, Responsive, Template, Portfolio" />
     <meta name="author" content="imransdesign.com">
+    <link rel="icon" type="image/x-icon" href="../assets/img/dumi/favicon_dumi.png">
 
     <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
