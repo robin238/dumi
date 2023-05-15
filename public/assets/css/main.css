@@ -1,4 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Lato:400|Josefin+Sans:700");
+/* @import url("https://fonts.googleapis.com/css?family=Lato:400|Josefin+Sans:700"); */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Quicksand:wght@600&display=swap');
+
 html {
   overflow-x: hidden;
 }
@@ -7,7 +9,8 @@ body {
   background: #fff;
   font-size: 15px;
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Inter', sans-serif;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -22,7 +25,8 @@ body {
 h1, h2, h3, h4 {
   font-size: 36px;
   font-weight: 700;
-  font-family: 'Josefin Sans', sans-serif;
+  /* font-family: 'Josefin Sans', sans-serif; */
+  font-family: 'Inter', sans-serif;
 }
 
 a {
@@ -42,7 +46,8 @@ a a:focus {
 
 p {
   font-weight: 400;
-  font-family: 'Lato', sans-serif;
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Inter', sans-serif;
   margin: 0px;
   font-size: 14px;
 }
@@ -1119,7 +1124,8 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .accordion .header-title:after {
-  font-family: "LineIcons";
+  /* font-family: "LineIcons"; */
+  font-family: 'Inter', sans-serif;
   content: "\e93a";
   position: absolute;
   right: 10px;
@@ -2115,6 +2121,11 @@ a.back-to-top:hover, a.back-to-top:focus {
   width: 100%;
 }
 
+#main-slide .carousel-item .izin  {
+  position: relative;
+  margin-right: 100%;
+}
+
 #main-slide .carousel-inner .carousel-item::after {
   bottom: 0;
   content: "";
@@ -2137,11 +2148,24 @@ a.back-to-top:hover, a.back-to-top:focus {
   text-transform: uppercase;
   letter-spacing: 0.1rem;
   margin-top: 30px;
+  line-height: 1.5;
+  width: 600px; 
+  text-align: left;
 }
 
 #main-slide .carousel-item .carousel-caption p {
   font-size: 20px;
+  width: 600px; 
+  text-align: left;
 }
+
+#main-slide .carousel-item .carousel-caption span p {
+  font-size: 20px;
+  width: 600px; 
+  text-align: left;
+  margin: 50px 0px;
+}
+
 
 #main-slide .carousel-item.active .carousel-caption {
   opacity: 1;

@@ -23,6 +23,11 @@
     <!-- Responsive Style -->
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Quicksand:wght@300&display=swap"
+        rel="stylesheet">
+
 </head>
 
 <body>
@@ -139,15 +144,31 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="assets/img/slider/header_web.png" alt="First slide">
+                    <img class="d-block w-100" src="assets/img/slider/header_web_1920.png" alt="First slide">
                     <div class="carousel-caption d-md-block">
-                        <p class="fadeInUp wow" data-wow-delay=".6s">Global Grand Event on Digital Design</p>
-                        <h1 class="wow fadeInDown heading" data-wow-delay=".4s">Design Thinking Conference</h1>
-                        <a href="#" class="fadeInLeft wow btn btn-common btn-lg" data-wow-delay=".6s">Get Ticket</a>
-                        <a href="#" class="fadeInRight wow btn btn-border btn-lg" data-wow-delay=".6s">Explore More</a>
+                        <h1 class="wow fadeInDown heading" data-wow-delay=".4s">
+                            Wujudkan Segala Kebutuhan dengan Dana
+                            Multiguna</h1>
+                        <p class="fadeInUp wow" data-wow-delay=".6s">Plafon
+                            hingga Rp300 juta dan tenor maksimal 10
+                            tahun.</p>
+                        <span>
+                            <p class="fadeInUp wow" data-wow-delay=".6s" style="margin-top: 5px">Berizin & diawasi</p>
+                        </span>
+                        <div class="row">
+                            <div>
+                                <img class=" izin" src="assets/img/dumi/OJK.png" alt="">
+                            </div>
+                            <div>
+                                <img class="izin" src="assets/img/dumi/afpi.png" alt="">
+                            </div>
+
+
+                        </div>
+
                     </div>
                 </div>
-                <div class="carousel-item">
+                <!-- <div class="carousel-item">
                     <img class="d-block w-100" src="assets/img/slider/slide2.jpg" alt="Second slide">
                     <div class="carousel-caption d-md-block">
                         <p class="fadeInUp wow" data-wow-delay=".6s">Global Grand Event on Digital Design</p>
@@ -162,7 +183,7 @@
                         <h1 class="wow fadeInUp heading" data-wow-delay=".6s">Book Your Seat Now!</h1>
                         <a href="#" class="fadeInUp wow btn btn-common btn-lg" data-wow-delay=".8s">Explore</a>
                     </div>
-                </div>
+                </div> -->
             </div>
             <a class="carousel-control-prev" href="#main-slide" role="button" data-slide="prev">
                 <span class="carousel-control" aria-hidden="true"><i class="lni-chevron-left"></i></span>
