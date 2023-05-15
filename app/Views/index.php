@@ -15,6 +15,7 @@
 		<meta name="description" content="Unika - Responsive One Page HTML5 Template">
 		<meta name="keywords" content="HTML5, Bootsrtrap, One Page, Responsive, Template, Portfolio" />
 		<meta name="author" content="imransdesign.com">
+        <link rel="icon" type="image/x-icon" href="../assets/img/dumi/favicon_dumi.png">
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -72,7 +73,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                       </button>
-                      <a class="navbar-brand page-scroll" href="index.html">DUMI</a>
+                      <a class="navbar-brand page-scroll" href="index.html">Unika</a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
