@@ -203,8 +203,96 @@
     </header>
     <!-- Header Area wrapper End -->
 
+    <section id="services" class="services section-padding">
+        <div class="container">
+            <div class="row bangkit">
+                <div class="col-6 bangkit1">
+                    <h2> Bangkit Bersama Dumi</h2>
+
+                    <p>Dumi adalah
+                        platform digital yang
+                        memberikan
+                        akses layanan keuangan
+                        yang berkualitas, aman dan terjangkau dalam rangka meningkatkan kesejahteraan dan kemandirian
+                        Aparatur Sipil Negara di
+                        Indonesia.</p>
+                </div>
+                <div class="col-6 bangkit2">
+
+                    <div class="row">
+                        <div class="row">
+                            <div class="col-4">
+                                <img src="assets/img/dumi/money.png" alt="">
+                            </div>
+                            <div class="col-8">
+                                <h5>Rp 632 M</h5>
+                                <p>Pendanaan Sejak Berdiri</p>
+                            </div>
+
+                        </div>
+                        <div class="row">
+                            <div class="col-4">
+                                <img src="assets/img/dumi/coin.png" alt="">
+                            </div>
+                            <div class="col-8">
+                                <h5>Rp 162 M</h5>
+                                <p>Pendanaan Tahun Ini</p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="row">
+                            <div class="col-4">
+                                <img src="assets/img/dumi/user.png" alt="">
+                            </div>
+                            <div class="col-8">
+                                <h5>8.678</h5>
+                                <p>Total Penerima Dana</p>
+                            </div>
+
+                        </div>
+                        <div class="row">
+                            <div class="col-4">
+                                <img src="assets/img/dumi/build.png" alt="">
+                            </div>
+                            <div class="col-8">
+                                <h5 style="margin-left: 15px">3 Institusi</h5>
+                                <p style="margin-left: 15px">Pemberi Dana</p>
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="row apik">
+                <div class="col-6 apik1">
+                    <img src="../assets/img/dumi/apik.png" alt="">
+                </div>
+                <div class="col-6 apik2">
+
+                    <h2> Melayani Secara APIK</h2>
+
+                    <p> Dumi APIK merupakan semangat baru Dumi dalam membangun kesadaran masyarakat tentang inklusi
+                        keuangan yang memiliki banyak manfaat untuk mewujudkan kehidupan yang lebih baik.</p>
+
+                </div>
+
+            </div>
+        </div>
+
+
+    </section>
+
     <!-- Coundown Section Start -->
-    <section class="countdown-timer section-padding">
+    <!-- <section class="countdown-timer section-padding">
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-12 col-sm-12 col-xs-12">
@@ -221,7 +309,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Coundown Section End -->
 
     <!-- Services Section Start -->
