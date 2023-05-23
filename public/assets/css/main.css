@@ -54,9 +54,8 @@ p {
   margin: 0px;
   font-size: 14px;
 }
-
-ul,
-ol {
+/* 
+ul, ol {
   list-style: outside none none;
   margin: 0;
   padding: 0;
@@ -65,7 +64,7 @@ ol {
 ul li,
 ol li {
   list-style: none;
-}
+} */
 
 .hero-heading {
   font-size: 40px;
@@ -116,10 +115,14 @@ ol li {
   margin-bottom: 15px;
 }
 
+.part{
+  padding: 0 5px 0 5px;
+}
+/* 
 .section-title:before {
   position: absolute;
   content: '';
-  left: 15px;
+  left: 15px;section-title
   bottom: 8px;
   width: 48px;
   height: 1px;
@@ -134,7 +137,7 @@ ol li {
   width: 48px;
   height: 1px;
   background-color: #E91E63;
-}
+} */
 
 .section-title:before,
 .section-title:after {
@@ -960,6 +963,22 @@ a.back-to-top:focus {
     } */
 }
 
+.counter-section-partner {
+  background: #ffffff;
+  overflow: hidden;
+  position: relative;
+  /* 
+    &:before{
+    	content: '';
+    	position: absolute;
+    	top: 0;
+    	bottom: 0;
+    	width: 100%;
+    	height: 100%;
+    	background: rgba(0, 0, 0, 0.5);
+    } */
+}
+
 .counter-section .counter {
   padding: 30px 0;
 }
@@ -1329,8 +1348,34 @@ a.back-to-top:focus {
 }
 
 /* Team Item */
+.direksi-item:hover {
+  /* box-shadow: 15px 25px 35px -15px rgba(0, 0, 0, 0.35); */
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.29);
+}
+.card-direksi{
+border:0;
+}
 .team-item:hover {
   box-shadow: 0 25px 35px -12px rgba(0, 0, 0, 0.35);
+  padding-bottom: 0;
+}
+.direksi-item {
+  margin: 15px 0;
+  padding-bottom: 0;
+  position: relative;
+  /* box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.17); */
+  transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -o-transition: all 0.3s ease-in-out 0s;
+}
+
+.card-title{
+  font-size : 25px;
+  margin-bottom: 0;
+}
+.card-body{
+  padding: 15px 0;
 }
 
 .team-item {
@@ -2107,6 +2152,13 @@ a.back-to-top:focus {
   padding-bottom: 15px;
 }
 
+.misi li {
+  font-size: 23px;
+  display: list-item;
+  line-height:1.7;
+  color:rgb(73, 73, 73)
+}
+
 #pricing .price-block-wrapper .pricing-list ul li {
   font-size: 15px;
   color: #212121;
@@ -2211,6 +2263,19 @@ a.back-to-top:focus {
 
 #main-slide .carousel-caption .btn {
   margin: 25px 25px 0px 0px;
+}
+
+.header {
+  padding: 200px 50px 80px 50px;
+  text-align: center;
+  background: url(../img/dumi/bg-gradient-1.png)  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
 }
 
 #main-slide .carousel-control-next,
