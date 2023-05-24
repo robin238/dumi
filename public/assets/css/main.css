@@ -55,8 +55,8 @@ p {
   font-size: 14px;
 }
 
-ul,
-ol {
+/* 
+ul, ol {
   list-style: outside none none;
   margin: 0;
   padding: 0;
@@ -116,6 +116,11 @@ ol li {
   margin-bottom: 15px;
 }
 
+.part {
+  padding: 0 5px 0 5px;
+}
+
+/* 
 .section-title:before {
   position: absolute;
   content: '';
@@ -1333,6 +1338,40 @@ a.back-to-top:focus {
   box-shadow: 0 25px 35px -12px rgba(0, 0, 0, 0.35);
 }
 
+.direksi-item:hover {
+  /* box-shadow: 15px 25px 35px -15px rgba(0, 0, 0, 0.35); */
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.29);
+}
+
+.card-direksi {
+  border: 0;
+}
+
+.team-item:hover {
+  box-shadow: 0 25px 35px -12px rgba(0, 0, 0, 0.35);
+  padding-bottom: 0;
+}
+
+.direksi-item {
+  margin: 15px 0;
+  padding-bottom: 0;
+  position: relative;
+  /* box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.17); */
+  transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -o-transition: all 0.3s ease-in-out 0s;
+}
+
+.card-title {
+  font-size: 25px;
+  margin-bottom: 0;
+}
+
+.card-body {
+  padding: 15px 0;
+}
+
 .team-item {
   margin: 15px 0;
   padding: 10px;
@@ -2107,6 +2146,13 @@ a.back-to-top:focus {
   padding-bottom: 15px;
 }
 
+.misi li {
+  font-size: 23px;
+  display: list-item;
+  line-height: 1.7;
+  color: rgb(73, 73, 73)
+}
+
 #pricing .price-block-wrapper .pricing-list ul li {
   font-size: 15px;
   color: #212121;
@@ -2172,19 +2218,18 @@ a.back-to-top:focus {
 }
 
 #main-slide .carousel-item .carousel-caption .heading {
-  font-size: 48px;
+  font-size: 30px;
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
-  margin-top: 30px;
   line-height: 1.5;
-  width: 600px;
+  width: 40%;
   text-align: left;
 }
 
 #main-slide .carousel-item .carousel-caption p {
-  font-size: 20px;
+  font-size: 15px;
   width: 600px;
   text-align: left;
 }
@@ -2193,7 +2238,7 @@ a.back-to-top:focus {
   font-size: 20px;
   width: 600px;
   text-align: left;
-  margin: 50px 0px;
+  margin: 30px 0px;
 }
 
 
@@ -2211,6 +2256,19 @@ a.back-to-top:focus {
 
 #main-slide .carousel-caption .btn {
   margin: 25px 25px 0px 0px;
+}
+
+.header {
+  padding: 200px 50px 80px 50px;
+  text-align: center;
+  background: url(../img/dumi/bg-gradient-1.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
 }
 
 #main-slide .carousel-control-next,
