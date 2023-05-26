@@ -33,6 +33,7 @@ $routes->set404Override();
 $routes->get('/', 'Dashboard::index');
 $routes->get('/tentang', 'Tentang_kami::index');
 $routes->get('/kontak', 'Kontak::index');
+$routes->get('/investor', 'Investor::index');
 
 /*
  * --------------------------------------------------------------------
