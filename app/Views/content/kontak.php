@@ -25,30 +25,30 @@
             <div class="row text-center">
                 <div class="col-md-12 col-sm-12">
                     <h4 style="color:#208de6;font-size: 30px">Head Office</h4>
-                    <h5>Salis Building</h5>
+                    <h5 style="font-weight: Bold">Salis Building</h5>
                     <p style="font-size:18px;line-height:1.7;color:rgb(48, 48, 48)">Jl. Dr. Setiabudi No. 272, Ledeng, Kec. Cidadap, Kota Bandung, Jawa Barat 40143
-                    <br>Senin-Jumat: <b>09.00 - 16.00</b> 
+                    <br><br> Senin-Jumat: <b style="font-weight: 900;">09.00 - 16.00</b> 
                     <br>Sabtu-Minggu: Tutup
                     </p>
-                    <div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Salis Building&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div>
-                        <style>
-                            .mapouter{position:relative;text-align:right;width:600px;height:400px;}
-                            .gmap_canvas {overflow:hidden;background:none!important;width:1000px;height:1000px;}
-                            .gmap_iframe {width:600px!important;height:400px!important;}</style>
-                    </div>
+                    
                 </div>
+                <div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=900&amp;height=300&amp;hl=en&amp;q=salis building&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://capcuttemplate.org/">Capcut Template</a></div><style>.mapouter{position:relative;text-align:right;width:100%;height:300px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:300px;}.gmap_iframe {height:300px!important;}</style></div>
             </div>
             <br>
             <div class="row text-center">
                 <div class="col-md-12 col-sm-12">
                     <h4 style="color:#208de6;font-size: 30px">Operational Office</h4>
-                    <h5>Gedung II Lt. 12 - BKN Pusat</h5>
-                    <p style="font-size:18px;line-height:1.7;color:rgb(48, 48, 48)">Jl. Mayjen Sutoyo No. 12, Cililitan, Jakarta Timur, DKI Jakarta 13640
-                    <br>Senin-Jumat: <b>09.00 - 16.00</b> 
+                    <h5 style="font-weight: Bold">Gedung II Lt. 12 - BKN Pusat</h5>
+                    <p style="font-size:18px;line-height:1.7;color:rgb(48, 48, 48);margin: bottom 20px;">Jl. Mayjen Sutoyo No. 12, Cililitan, Jakarta Timur, DKI Jakarta 13640
+                    <br>Senin-Jumat: <b style="font-weight: 900;">09.00 - 16.00</b> 
                     <br>Sabtu-Minggu: Tutup
                     </p>
                 </div>
-                <div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Kantor Pusat Badan Kepegawaian negara&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div><style>.mapouter{position:relative;text-align:right;width:600px;height:400px;}.gmap_canvas {overflow:hidden;background:none!important;width:600px;height:400px;}.gmap_iframe {width:600px!important;height:400px!important;}</style></div>
+                <div class="mapouter">
+                    <div class="gmap_canvas">
+                        <iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=kantor pusat badan kepegawaian negara&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+                    </div>
+                </div>
             </div>
             <hr>
             </br>
@@ -60,355 +60,43 @@
     <!-- Sponsors Section Start -->
     <section id="sponsors" class="section-padding">
         <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-title-header text-center">
-                        <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Sponsores</h1>
-                        <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
-                    </div>
-                </div>
-            </div>
+           
             <div class="row mb-30 text-center wow fadeInDown" data-wow-delay="0.3s">
                 <div class="col-md-3 col-sm-3 col-xs-12">
-                    <i class="fa-solid fa-phone fa-2xl"></i>
-                    <div class="spnsors-logo">
-                    </div>
+                    <i class="fa-solid fa-phone fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i>
+                    <p>(021) 8093008 ext. <br> 4218 <br> 0813-1582-3033 </p>
                 </div>
-                <div class="col-md-3 col-sm-3 col-xs-12">
-                    <i class="fa-solid fa-envelope fa-2xl"></i>
-                    <div class="spnsors-logo">
-                    </div>
+                <div class="col-md-3 col-sm-3 col-xs-12"  >
+                    <i class="fa-solid fa-envelope fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i> 
+                    <p>cs@minjem.com</p>
                 </div>
-                <div class="col-md-3 col-sm-3 col-xs-12">
-                    <div class="spnsors-logo">
-                        <i class="fa-brands fa-instagram fa-2xl"></i>
-                    </div>
+                <div class="col-md-3 col-sm-3 col-xs-12"  >
+                    <i class="fa-brands fa-instagram fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i>
+                    <p>@dumi_id</p>
                 </div>
-                <div class="col-md-3 col-sm-3 col-xs-12">
-                    <div class="spnsors-logo">
-                    <i class="fa-brands fa-facebook fa-2xl"></i>
-                    </div>
+                <div class="col-md-3 col-sm-3 col-xs-12"  >
+                    <i class="fa-brands fa-facebook fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i>
+                    <p>Dumi Indonesia</p>
+                    <!-- <div class="spnsors-logo">
+                   
+                    </div> -->
                 </div>
-                <div class="col-12 text-center">
-                    <a href="#" class="btn btn-common">become a sponsor</a>
-                </div>
+              
             </div>
         </div>
     </section>
     <!-- Sponsors Section End -->
 
-    <!-- Ticket Pricing Area Start -->
-    <section id="pricing" class="section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-title-header text-center">
-                        <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Our Pricing</h1>
-                        <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-sm-6 col-xa-12 mb-3">
-                    <div class="price-block-wrapper wow fadeInLeft" data-wow-delay="0.2s">
-                        <div class="icon">
-                            <i class="lni-write"></i>
-                        </div>
-                        <div class="colmun-title">
-                            <h5>Basic Pass</h5>
-                        </div>
-                        <div class="price">
-                            <h2>$29</h2>
-                            <p>452 Tickets Available</p>
-                        </div>
-                        <div class="pricing-list">
-                            <ul>
-                                <li><i class="lni-check-mark-circle"></i><span class="text">Entrance</span></li>
-                                <li><i class="lni-check-mark-circle"></i><span class="text">Coffee Break</span></li>
-                                <li><i class="lni-check-mark-circle"></i><span class="text">Lunch on all days</span>
-                                </li>
-                                <li><i class="lni-close"></i><span class="text">Access to all areas</span></li>
-                                <li><i class="lni-close"></i><span class="text">Certificate</span></li>
-                                <li><i class="lni-check-mark-circle"></i><span class="text">Workshop</span></li>
-                            </ul>
-                        </div>
-                        <a href="#" class="btn btn-common">Buy Ticket</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 col-xa-12 mb-3">
-                    <div class="price-block-wrapper wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="icon">
-                            <i class="lni-layers"></i>
-                        </div>
-                        <div class="colmun-title">
-                            <h5>Standard Pass</h5>
-                        </div>
-                        <div class="price">
-                            <h2>$40</h2>
-                            <p>452 Tickets Available</p>
-                        </div>
-                        <div class="pricing-list">
-                            <ul>
-                                <li><i class="lni-check-mark-circle"></i><span class="text">Entrance</span></li>
-                                <li><i class="lni-check-mark-circle"></i><span class="text">Coffee Break</span></li>
-                                <li><i class="lni-check-mark-circle"></i><span class="text">Lunch on all days</span>
-                                </li>
-                                <li><i class="lni-close"></i><span class="text">Access to all areas</span></li>
-                                <li><i class="lni-check-mark-circle"></i><span class="text">Certificate</span></li>
-                                <li><i class="lni-close"></i><span class="text">Workshop</span></li>
-                            </ul>
-                        </div>
-                        <a href="#" class="btn btn-common">Buy Ticket</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 col-xa-12 mb-3">
-                    <div class="price-block-wrapper wow fadeInRight" data-wow-delay="0.4s">
-                        <div class="icon">
-                            <i class="lni-leaf"></i>
-                        </div>
-                        <div class="colmun-title">
-                            <h5>Premium Pass</h5>
-                        </div>
-                        <div class="price">
-                            <h2>$68</h2>
-                            <p>452 Tickets Available</p>
-                        </div>
-                        <div class="pricing-list">
-                            <ul>
-                                <li><i class="lni-check-mark-circle"></i><span class="text">Entrance</span></li>
-                                <li><i class="lni-check-mark-circle"></i><span class="text">Coffee Break</span></li>
-                                <li><i class="lni-close"></i><span class="text">Lunch on all days</span></li>
-                                <li><i class="lni-check-mark-circle"></i><span class="text">Access to all areas</span>
-                                </li>
-                                <li><i class="lni-check-mark-circle"></i><span class="text">Certificate</span></li>
-                                <li><i class="lni-close"></i><span class="text">Workshop</span></li>
-                            </ul>
-                        </div>
-                        <a href="#" class="btn btn-common">Buy Ticket</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Ticket Pricing Area End -->
 
-    <!-- Event Slides Section Start -->
-    <section id="event-slides" class="section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-title-header text-center">
-                        <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event Guideline</h1>
-                        <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 col-xs-12 wow fadeInRight" data-wow-delay="0.3s">
-                    <div class="video">
-                        <img class="img-fluid" src="assets/img/about/about.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
-                    <p class="intro-desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
-                        printer took a galley of type and scrambled it to make a type specimen book. It has survived not
-                        only five centuries.
-                    </p>
-                    <h2 class="intro-title">Check List</h2>
-                    <ul class="list-specification">
-                        <li><i class="lni-check-mark-circle"></i> Lorem Ipsum is simply dummy</li>
-                        <li><i class="lni-check-mark-circle"></i> Ipsum passages, and more recently</li>
-                        <li><i class="lni-check-mark-circle"></i> PageMaker including versions</li>
-                        <li><i class="lni-check-mark-circle"></i> Lorem Ipsum is simply dummy</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Event Slides Section End -->
-
-    <!-- Blog Section Start -->
-    <section id="blog" class="section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-title-header text-center">
-                        <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Our Latest News & Articles</h1>
-                        <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-xs-12">
-                    <div class="blog-item">
-                        <div class="blog-image">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/img/blog/img-1.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="descr">
-                            <div class="tag">Design</div>
-                            <h3 class="title">
-                                <a href="single-blog.html">
-                                    The 9 Design Trends You Need to Know
-                                </a>
-                            </h3>
-                            <div class="meta-tags">
-                                <span class="date">Jan 20, 2018</span>
-                                <span class="comments">| <a href="#"> by Cindy Jefferson</a></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-xs-12">
-                    <div class="blog-item">
-                        <div class="blog-image">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/img/blog/img-2.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="descr">
-                            <div class="tag">Design</div>
-                            <h3 class="title">
-                                <a href="single-blog.html">
-                                    The 9 Design Trends You Need to Know
-                                </a>
-                            </h3>
-                            <div class="meta-tags">
-                                <span class="date">Jan 20, 2018 </span>
-                                <span class="comments">| <a href="#"> by Cindy Jefferson</a></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-xs-12">
-                    <div class="blog-item">
-                        <div class="blog-image">
-                            <a href="#">
-                                <img class="img-fluid" src="assets/img/blog/img-3.jpg" alt="">
-                            </a>
-                        </div>
-                        <div class="descr">
-                            <div class="tag">Design</div>
-                            <h3 class="title">
-                                <a href="single-blog.html">
-                                    The 9 Design Trends You Need to Know
-                                </a>
-                            </h3>
-                            <div class="meta-tags">
-                                <span class="date">Jan 20, 2018</span>
-                                <span class="comments">| <a href="#"> by Cindy Jefferson</a></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 text-center">
-                    <a href="#" class="btn btn-common">Read More News</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Blog Section End -->
-
-    <!-- Subscribe Area Start -->
-    <div id="subscribe" class="section-padding">
-        <div class="container">
-            <div class="row justify-content-md-center">
-                <div class="col-md-10 col-lg-7">
-                    <div class="subscribe-inner wow fadeInDown" data-wow-delay="0.3s">
-                        <h2 class="subscribe-title">Sign Up For Our Newsletter</h2>
-                        <form class="text-center form-inline">
-                            <input class="mb-20 form-control" name="email" placeholder="Enter Your Email Here">
-                            <button type="submit" class="btn btn-common sub-btn" data-style="zoom-in"
-                                data-spinner-size="30" name="submit" id="submit">
-                                <span class="ladda-label"><i class="lni-check-box"></i> Submit</span>
-                            </button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Subscribe Area End -->
-
-    <!-- Map Section Start -->
-    <section id="google-map-area">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-12">
-                    <div id="conatiner-map"></div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Map Section End -->
-
-    <!-- Contact Us Section -->
-    <section id="contact-map" class="section-padding">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12">
-                    <div class="section-title-header text-center">
-                        <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Drop A Message</h1>
-                        <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-12 col-xs-12">
-                    <div class="container-form wow fadeInLeft" data-wow-delay="0.2s">
-                        <div class="form-wrapper">
-                            <form role="form" method="post" id="contactForm" name="contact-form"
-                                data-toggle="validator">
-                                <div class="row">
-                                    <div class="col-md-6 form-line">
-                                        <div class="form-group">
-                                            <input type="text" class="form-control" id="name" name="email"
-                                                placeholder="First Name" required data-error="Please enter your name">
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 form-line">
-                                        <div class="form-group">
-                                            <input type="email" class="form-control" id="email" name="email"
-                                                placeholder="Email" required data-error="Please enter your Email">
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12 form-line">
-                                        <div class="form-group">
-                                            <input type="tel" class="form-control" id="msg_subject" name="subject"
-                                                placeholder="Subject" required
-                                                data-error="Please enter your message subject">
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <textarea class="form-control" rows="4" id="message" name="message" required
-                                                data-error="Write your message"></textarea>
-                                        </div>
-                                        <div class="form-submit">
-                                            <button type="submit" class="btn btn-common" id="form-submit"><i
-                                                    class="fa fa-paper-plane" aria-hidden="true"></i> Send Us
-                                                Now</button>
-                                            <div id="msgSubmit" class="h3 text-center hidden"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Contact Us Section End -->
 
     <!-- Footer Section Start -->
     <footer class="footer-area section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.2s">
-                    <h3><img src="assets/img/logo.png" alt=""></h3>
+                    <h3><img src="assets/img/dumi/dumi-logo-real-A.png" width="230px"></h3>
                     <p>
-                        Aorem ipsum dolor sit amet elit sed lum tempor incididunt ut labore el dolore alg minim veniam
-                        quis nostrud ncididunt.
+                    Dumi adalah pinjaman online khusus pegawai di instansi, kementerian dan lembaga yang sudah bekerjasama.
                     </p>
                 </div>
                 <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.4s">
@@ -480,7 +168,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="site-info">
-                        <p>© Designed and Developed by <a href="http://uideck.com" rel="nofollow">UIdeck</a></p>
+                        <p>DUMI © 2022 - Fidac Inovasi Teknologi</p>
                     </div>
                 </div>
             </div>
