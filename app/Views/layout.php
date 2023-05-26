@@ -185,93 +185,169 @@
     <!-- Coundown Section End -->
 
     <!-- Services Section Start -->
-    <section id="services" class="services section-padding">
+    <section id="services" class="services section-padding"
+        style="background: url(assets/img/dumi/peta.png) ,radial-gradient(circle at top left, #0061d4, #0075d4); ">
+        <!-- <img src="assets/img/dumi/peta.png" alt="peta" style="position: absolute;"> -->
         <div class="container">
+
             <div class="row">
-                <div class="col-12">
-                    <div class="section-title-header text-center">
-                        <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Why You Choose Us?</h1>
-                        <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+
+                <div class="col-8">
+                    <div class="row">
+                        <!-- Services item -->
+
+                        <div class="wow fadeInDown" data-wow-delay="0.2s">
+                            <img src="assets/img/dumi/handphone.png" alt="">
+                        </div>
+
                     </div>
                 </div>
-            </div>
-            <div class="row services-wrapper">
-                <!-- Services item -->
-                <div class="col-md-6 col-lg-4 col-xs-12 padding-none">
-                    <div class="services-item wow fadeInDown" data-wow-delay="0.2s">
-                        <div class="icon">
-                            <i class="lni-heart"></i>
+                <div class="col-4 mt-5">
+                    <div class="row">
+                        <!-- Services item -->
+
+                        <div class=" wow fadeInDown" data-wow-delay="0.2s">
+                            <div class="row">
+
+                                <ul class="list-specification"
+                                    style="list-style-type: none;  line-height: 45px; color:white  ">
+                                    <h1 style="margin-bottom: 20px; font-weight: bold;">Paling Bisa Diandalkan</h1>
+                                    <li><i class="fa-sharp fa-solid fa-circle-check fa-2xl"
+                                            style="color: #ffffff; margin-right:20px;"></i>
+                                        Bunga kompetitif</li>
+                                    <li><i class="fa-sharp fa-solid fa-circle-check fa-2xl"
+                                            style="color: #ffffff; margin-right:20px;"></i>
+                                        Tenor fleksibel</li>
+                                    <li><i class="fa-sharp fa-solid fa-circle-check fa-2xl"
+                                            style="color: #ffffff; margin-right:20px;"></i>
+                                        Pelayanan responsif</li>
+                                    <li><i class="fa-sharp fa-solid fa-circle-check fa-2xl"
+                                            style="color: #ffffff; margin-right:20px; "></i>
+                                        Jaminan keamanan data</li>
+                                    <li><i class="fa-sharp fa-solid fa-circle-check fa-2xl"
+                                            style="color: #ffffff; margin-right:20px; "></i>
+                                        Berizin dan diawasi OJK</li>
+                                </ul>
+
+
+                            </div>
+
                         </div>
-                        <div class="services-content">
-                            <h3><a href="#">Get Inspired</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- Services item -->
-                <div class="col-md-6 col-lg-4 col-xs-12 padding-none">
-                    <div class="services-item wow fadeInDown" data-wow-delay="0.4s">
-                        <div class="icon">
-                            <i class="lni-gallery"></i>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="#">Meet New Faces</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- Services item -->
-                <div class="col-md-6 col-lg-4 col-xs-12 padding-none">
-                    <div class="services-item wow fadeInDown" data-wow-delay="0.6s">
-                        <div class="icon">
-                            <i class="lni-envelope"></i>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="#">Fresh Tech Insights</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- Services item -->
-                <div class="col-md-6 col-lg-4 col-xs-12 padding-none">
-                    <div class="services-item wow fadeInDown" data-wow-delay="0.8s">
-                        <div class="icon">
-                            <i class="lni-cup"></i>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="#">Networking Session</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- Services item -->
-                <div class="col-md-6 col-lg-4 col-xs-12 padding-none">
-                    <div class="services-item wow fadeInDown" data-wow-delay="1s">
-                        <div class="icon">
-                            <i class="lni-user"></i>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="#">Global Event</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- Services item -->
-                <div class="col-md-6 col-lg-4 col-xs-12 padding-none">
-                    <div class="services-item wow fadeInDown" data-wow-delay="1.2s">
-                        <div class="icon">
-                            <i class="lni-bubble"></i>
-                        </div>
-                        <div class="services-content">
-                            <h3><a href="#">Free Swags</a></h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer commodo ligula eget dolor.</p>
-                        </div>
+
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- Services Section End -->
+
+
+    <section id="services" class="section-padding">
+
+        <div class="container">
+            <!-- <img src="assets/img/dumi/mini-header_new.png" alt="" style=" position: absolute;"> -->
+            <div class="row"
+                style="height:511px;width:1256; background-image:url(assets/img/dumi/mini-header_new.png) ; background-repeat: no-repeat;">
+                <div class="col-8">
+                    <div class="row">
+                        <!-- Services item -->
+
+                        <div class="wow fadeInDown" data-wow-delay="0.2s">
+
+
+                            <p style="font-size:30px ; margin-top: 20% ;width: 60%; margin-left: 25%
+                            ; color: #ffffff; line-height: 50px;">
+                                Penuhi kebutuhan
+                                Anda segera,
+
+                                <b>#AjukanSecaraApik</b> sekarang!
+                            </p>
+
+                            <a href="https://play.google.com/store/apps/details?id=com.minjem.dumi"
+                                class="btn download"> Download Dumi di Playstore </a>
+
+                            <a href="#" style=" display: inline-block;width: 60%;margin-top: 5%; margin-left: 25%
+                            ; color: #ffffff; line-height: 50px; text-decoration: underline;">Pertanyaan umum seputar
+                                Dumi</a>
+                        </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+    </section>
+
+
+    <section id="services" class="section-padding">
+
+        <div class="container">
+            <!-- <img src="assets/img/dumi/mini-header_new.png" alt="" style=" position: absolute;"> -->
+            <div class="row">
+
+                <!-- Services item -->
+                <div class="slider" style="border-radius: 30px;">
+                    <div class="slide-track">
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media_cnn_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media_detik_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media_kompas_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media_kumparan_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media_liputan6_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media-beritasatu_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media-bisnisindonesia_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media-tirto_1.png" alt="" />
+                        </div>
+
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media_cnn_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media_detik_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media_kompas_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media_kumparan_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media_liputan6_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media-beritasatu_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media-bisnisindonesia_1.png" alt="" />
+                        </div>
+                        <div class="slide">
+                            <img src="assets/img/dumi/news/media-tirto_1.png" alt="" />
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
 
 
     <!-- About Section Start -->
