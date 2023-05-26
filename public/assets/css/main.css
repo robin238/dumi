@@ -1008,7 +1008,7 @@ a.back-to-top:focus {
 
 /* Sponsors Area */
 #sponsors {
-  background: #f3f4f3;
+  background: #ffffff;
 }
 
 #sponsors .spnsors-logo {
@@ -1059,8 +1059,9 @@ a.back-to-top:focus {
 .schedule .schedule-tab-title .nav-tabs .nav-item.show .nav-link,
 .schedule .schedule-tab-title .nav-tabs .nav-link.active,
 .schedule .schedule-tab-title .nav-tabs .nav-item .nav-link:hover {
-  background: #000000;
-  border: 1px solid #4d4a4a;
+  background: #238be6;
+  /* background: #000000; */
+  /* border: 1px solid #4d4a4a; */
   transition: all 0.3s ease-in-out 0s;
   -moz-transition: all 0.3s ease-in-out 0s;
   -webkit-transition: all 0.3s ease-in-out 0s;
@@ -1979,14 +1980,18 @@ border:0;
 }
 
 #copyright {
-  background: #0b0b0b;
+  /* background: #0b0b0b; */
+  background: #23272a;
   text-align: center;
+  padding: 30px;
 }
 
 #copyright p {
   line-height: 42px;
-  color: #fff;
+  /* color: #fff; */
+  color: #d2d2d2;
   margin: 0;
+  font-size: 17px;
 }
 
 #copyright p a {
@@ -1996,6 +2001,26 @@ border:0;
 #copyright p a:hover {
   color: #E91E63;
 }
+
+#copyright :after {
+  position: absolute;
+  content: '';
+  left: 0px;
+  bottom: 2px;
+  width: 48px;
+  height: 1px;
+  background-color: #E91E63;
+}
+
+/* .section-title:after {
+  position: absolute;
+  content: '';
+  left: 0px;
+  bottom: 2px;
+  width: 48px;
+  height: 1px;
+  background-color: #E91E63;
+} */
 
 /* ==========================================================================
    Countdown Style Start
@@ -2383,4 +2408,29 @@ border:0;
   line-height: 35px;
   margin-top: 20px;
 
+}
+
+.mapouter{
+  position:relative;
+  text-align:right;width:100%;
+  height:300px;
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+.gmap_canvas {
+  overflow:hidden;
+  background:none!important;
+  width:100%;
+  height:300px;
+}
+.gmap_iframe {
+  height:300px!important;
+}
+
+[data-toggle="collapse"] .fa:before {  
+  content: "\f068";
+}
+
+[data-toggle="collapse"].collapsed .fa:before {
+  content:"\f078";
 }
