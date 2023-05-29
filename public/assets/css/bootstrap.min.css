@@ -3423,7 +3423,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:hover {
-    color: #0056b3;
+    /* color: #0056b3; */
     text-decoration: underline;
     background-color: transparent;
     border-color: transparent
@@ -4867,8 +4867,8 @@ tbody.collapse.show {
     word-wrap: break-word;
     background-color: #fff;
     background-clip: border-box;
-    border: 1px solid rgba(0, 0, 0, .125);
-    border-radius: .25rem
+    /* border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem */
 }
 
 .card>hr {
@@ -4890,7 +4890,8 @@ tbody.collapse.show {
     -webkit-box-flex: 1;
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
-    padding: 1.25rem
+    padding: 1.25rem;
+    background-color: rgba(0, 0, 0, .03);
 }
 
 .card-title {
@@ -4917,8 +4918,8 @@ tbody.collapse.show {
 .card-header {
     padding: .75rem 1.25rem;
     margin-bottom: 0;
-    background-color: rgba(0, 0, 0, .03);
-    border-bottom: 1px solid rgba(0, 0, 0, .125)
+    /* background-color: rgba(0, 0, 0, .03); */
+    /* border-bottom: 1px solid rgba(0, 0, 0, .125) */
 }
 
 .card-header:first-child {

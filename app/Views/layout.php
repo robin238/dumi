@@ -263,8 +263,8 @@
                                 <b>#AjukanSecaraApik</b> sekarang!
                             </p>
 
-                            <a href="https://play.google.com/store/apps/details?id=com.minjem.dumi"
-                                class="btn download"> Download Dumi di Playstore </a>
+                            <a href="https://play.google.com/store/apps/details?id=com.minjem.dumi" class="btn download"
+                                target="_blank"> Download Dumi di Playstore </a>
 
                             <a href="#" style=" display: inline-block;width: 60%;margin-top: 5%; margin-left: 25%
                             ; color: #ffffff; line-height: 50px; text-decoration: underline;">Pertanyaan umum seputar
@@ -347,6 +347,107 @@
 
         </div>
 
+    </section>
+
+    <section id="faq" class="section-padding">
+        <div class="container">
+            <div id="accordion">
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <h5 class="mb-0">
+                            <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
+                                aria-expanded="true" aria-controls="collapseOne">
+                                Siapa saja yang dapat mengajukan pinjaman di Dumi?
+                            </button>
+                            <i class="fa" aria-hidden="true" style="float: right;"></i>
+                        </h5>
+                    </div>
+
+                    <div id="collapseOne" class=" card-body show" aria-labelledby="headingOne" data-parent="#accordion">
+
+                        Pagawai Negeri Sipil atau pegawai berpenghasilan tetap dari instansi yang telah bekerja
+                        sama.
+
+
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingTwo">
+                        <h5 class="mb-0">
+                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
+                                aria-expanded="false" aria-controls="collapseTwo">
+                                Apa syarat pengajuannya?
+                            </button>
+                            <i class="fa" aria-hidden="true" style="float: right;"></i>
+                        </h5>
+                    </div>
+                    <div id="collapseTwo" class=" card-body collapse" aria-labelledby="headingTwo"
+                        data-parent="#accordion">
+
+                        <ol>
+                            <li>Pegawai Aktif</li>
+                            <li>Instansi Sudah Bekerjasama</li>
+                            <li>SK Kepegawaian</li>
+                            <li>Surat Rekomendasi Atasan</li>
+                            <li>Surat Kuasa Bendahara</li>
+                            <li>Slip Gaji</li>
+                        </ol>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingThree">
+                        <h5 class="mb-0">
+                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
+                                aria-expanded="false" aria-controls="collapseThree">
+                                Bagaimana cara mengajukan pinjaman di Dumi?
+                            </button>
+                            <i class="fa" aria-hidden="true" style="float: right;"></i>
+                        </h5>
+                    </div>
+                    <div id="collapseThree" class=" card-body collapse" aria-labelledby="headingThree"
+                        data-parent="#accordion">
+                        <div>
+                            Lakukan kerja sama antara instansi dinas Anda dengan Dumi, lalu download aplikasi Dumi di
+                            Playstore dan ajukan sesuai syarat dan ketentuan yang berlaku.
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingFour">
+                        <h5 class="mb-0">
+                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour"
+                                aria-expanded="false" aria-controls="collapseFour">
+                                Bagaimana cara mengajukan kerjasama?
+                            </button>
+                            <i class="fa" aria-hidden="true" style="float: right;"></i>
+                        </h5>
+                    </div>
+                    <div id="collapseFour" class=" card-body collapse" aria-labelledby="headingFour"
+                        data-parent="#accordion">
+                        <div>
+                            Silakan hubungi nomor berikut hanya dengan WhatsApp: <b>0813-1582-3033</b>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingFive">
+                        <h5 class="mb-0">
+                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive"
+                                aria-expanded="false" aria-controls="collapseFive">
+                                Bagaimana cara melakukan pembayaran angsuran?
+                            </button>
+                            <i class="fa" aria-hidden="true" style="float: right;"></i>
+                        </h5>
+                    </div>
+                    <div id="collapseFive" class=" card-body collapse" aria-labelledby="headingFive"
+                        data-parent="#accordion">
+                        <div>
+                            Pembayaran dilakukan menggunakan virtual akun.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
 
@@ -439,7 +540,7 @@
     <!-- Counter Area End-->
 
     <!-- Schedule Section Start -->
-    <section id="schedules" class="schedule section-padding">
+    <!-- <section id="schedules" class="schedule section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -869,7 +970,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Schedule Section End -->
 
     <!-- Team Section Start -->
