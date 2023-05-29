@@ -40,7 +40,7 @@
                     <h4 style="color:#208de6;font-size: 30px">Operational Office</h4>
                     <h5 style="font-weight: Bold">Gedung II Lt. 12 - BKN Pusat</h5>
                     <p style="font-size:18px;line-height:1.7;color:rgb(48, 48, 48);margin: bottom 20px;">Jl. Mayjen Sutoyo No. 12, Cililitan, Jakarta Timur, DKI Jakarta 13640
-                    <br>Senin-Jumat: <b style="font-weight: 900;">09.00 - 16.00</b> 
+                    <br><br>Senin-Jumat: <b style="font-weight: 900;">09.00 - 16.00</b> 
                     <br>Sabtu-Minggu: Tutup
                     </p>
                 </div>
@@ -60,7 +60,7 @@
     <!-- Sponsors Section Start -->
     <section id="sponsors" class="section-padding">
         <div class="container">
-           
+        <!-- <div class="col-md-9"> -->
             <div class="row mb-30 text-center wow fadeInDown" data-wow-delay="0.3s">
                 <div class="col-md-3 col-sm-3 col-xs-12">
                     <i class="fa-solid fa-phone fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i>
@@ -82,7 +82,8 @@
                     </div> -->
                 </div>
               
-            </div>
+                </div>
+            <!-- </div> -->
         </div>
     </section>
     <!-- Sponsors Section End -->
