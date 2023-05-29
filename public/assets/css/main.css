@@ -116,11 +116,6 @@ ol li {
   margin-bottom: 15px;
 }
 
-.title-lembaga{
-  font-size: 28px;
-  color:#515151
-}
-
 .part {
   padding: 0 5px 0 5px;
 }
@@ -1174,7 +1169,6 @@ a.back-to-top:focus {
 .accordion .card {
   border-radius: 0px;
   margin-bottom: -2px;
-  border:none
 }
 
 .accordion .header-title {
@@ -1184,42 +1178,28 @@ a.back-to-top:focus {
 .accordion .header-title:after {
   /* font-family: "LineIcons"; */
   font-family: 'Inter', sans-serif;
-  /* content: "\e93a"; */
+  content: "\e93a";
   position: absolute;
   right: 10px;
   /* color: #999; */
-<<<<<<< Updated upstream
-=======
-  color: #000000;
->>>>>>> Stashed changes
   top: 50%;
   line-height: 1;
   padding: 0px 5px;
   margin-top: -7px;
 }
 
-/* .accordion .collapsed:after {
+.accordion .collapsed:after {
   content: "\e940";
-  color:blue
-} */
+}
 
 .accordion .card-header {
   background: transparent;
-  /* background: black; */
-  cursor: pointer;
-  padding: 0;
-}
-
-#headingOne {
-  background: transparent;
-  /* background: black; */
   cursor: pointer;
   padding: 0;
 }
 
 .accordion .card-header i {
-  /* color: #E91E63; */
-  color: #000000;
+  color: #E91E63;
   width: 40px;
   height: 40px;
   display: inline-block;
@@ -1233,9 +1213,6 @@ a.back-to-top:focus {
   padding-left: 56px;
 }
 
-.btn-link{
-  color: #000000;
-}
 /* Services Item */
 .services {
   background: #fff;
