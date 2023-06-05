@@ -108,7 +108,7 @@
                 </div>
             </div>
             <div style="margin-bottom:20px" >
-            <div class="accordion">
+            <div class="accordion-investor">
             <div class="card">
             <div class="card-header" id="headingOne">
                 <h5 class="mb-0">
@@ -145,17 +145,24 @@
                     <div class="card-body">
                         <p>
                         Konsultan Hukum:
+                       <br>
                        <b> Fahmy Hoessein & Partners (Advocates and Legal Consultant)</b>
-
+                       <br>
+                       <br>
                         Alamat:
+                       <br>
                        <b> Komplek Ruko Darmawangsa Square No. 47 Jalan Darmawangsa VI
                         Kebayoran Baru, Jakarta Selatan</b>
-
+                        <br>
+                        <br>
                         Telepon:
+                        <br>
                        <b> (+62)21 725 7253 </b>
-
+                       <br>
+                       <br>
                         Email:
-                       <b style="">info@fh-legalconsultant.com </b> 
+                        <br>
+                       <b style="color:blue">info@fh-legalconsultant.com </b> 
                         </p>
                     </div>
                 </div>
@@ -171,7 +178,15 @@
                 </div>
                 <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                     <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                    Akuntan Publik:
+                    <br>
+                    <b> Jimy Abadi </b>
+                    <br>
+                    <br>
+                    Alamat:
+                    <br>
+                    <b>Voza, Jl. Mayjen HR. Muhammad No. 31 A Sonokwijenan, Kec. Sukomanunggal
+                    Surabaya, Jawa Timur 60189 </b> 
                     </div>
                 </div>
             </div>
@@ -186,7 +201,22 @@
                 </div>
                 <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                     <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                    Underwriter: 
+                    <br>
+                    <b> PT Korea Investment and Sekuritas Indonesia</b>
+                    <br>
+                    Alamat:
+                    <br>
+                    <b>Equity Tower, Lantai 9 & 22 SCBD Lot 9 Jalan Jenderal Sudirman Kav. 52-53 Senayan
+                    Kebayoran Baru, Jakarta Selatan 12190</b> 
+                    <br>
+                    Telepon:
+                    <br>
+                    <b>(021) 29911911</b> 
+                    <br>
+                    Email:
+                    <br>
+                    <b style="color:blue"> CS@Kisi.co.id</b>
                     </div>
                 </div>
             </div>
@@ -201,14 +231,25 @@
                 </div>
                 <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
                     <div class="card-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                    BAE:
+                    <br>
+                    <b>PT Sinartama Gunita (BAE Perseroan)</b> 
+                    <br>
+                    Alamat:
+                    <br>
+                    <b> Sinarmas Land Plaza Tower 3 <br>
+                    Jl. M.H. Thamrin No.51, RT.9/RW.4 Gondangdia, Menteng <br>
+                    Jakarta Pusat 10350</b>
+                    <br>
+                    Telepon:
+                    <br>
+                    <b> (021) 3922332</b>
                     </div>
                 </div>
             </div>
         </div>
         </div>
-        <br>
-           
+     
         </div>
     </section>
     <!-- About Section End -->
