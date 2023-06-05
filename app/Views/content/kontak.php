@@ -1,9 +1,8 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-<?= $this->include('header') ?>
+    <?= $this->include('header') ?>
 </head>
 
 <body>
@@ -26,13 +25,38 @@
                 <div class="col-md-12 col-sm-12">
                     <h4 style="color:#208de6;font-size: 30px">Head Office</h4>
                     <h5 style="font-weight: Bold">Salis Building</h5>
-                    <p style="font-size:18px;line-height:1.7;color:rgb(48, 48, 48)">Jl. Dr. Setiabudi No. 272, Ledeng, Kec. Cidadap, Kota Bandung, Jawa Barat 40143
-                    <br><br> Senin-Jumat: <b style="font-weight: 900;">09.00 - 16.00</b> 
-                    <br>Sabtu-Minggu: Tutup
+                    <p style="font-size:18px;line-height:1.7;color:rgb(48, 48, 48)">Jl. Dr. Setiabudi No. 272, Ledeng,
+                        Kec. Cidadap, Kota Bandung, Jawa Barat 40143
+                        <br><br> Senin-Jumat: <b style="font-weight: 900;">09.00 - 16.00</b>
+                        <br>Sabtu-Minggu: Tutup
                     </p>
-                    
+
                 </div>
-                <div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=900&amp;height=300&amp;hl=en&amp;q=salis building&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://capcuttemplate.org/">Capcut Template</a></div><style>.mapouter{position:relative;text-align:right;width:100%;height:300px;}.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:300px;}.gmap_iframe {height:300px!important;}</style></div>
+                <div class="mapouter">
+                    <div class="gmap_canvas"><iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no"
+                            marginheight="0" marginwidth="0"
+                            src="https://maps.google.com/maps?width=900&amp;height=300&amp;hl=en&amp;q=salis building&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a
+                            href="https://capcuttemplate.org/">Capcut Template</a></div>
+                    <style>
+                    .mapouter {
+                        position: relative;
+                        text-align: right;
+                        width: 100%;
+                        height: 300px;
+                    }
+
+                    .gmap_canvas {
+                        overflow: hidden;
+                        background: none !important;
+                        width: 100%;
+                        height: 300px;
+                    }
+
+                    .gmap_iframe {
+                        height: 300px !important;
+                    }
+                    </style>
+                </div>
             </div>
             <br>
             <div class="row text-center">
@@ -46,10 +70,14 @@
                 </div>
                 <div class="mapouter">
                     <div class="gmap_canvas">
-                        <iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=kantor pusat badan kepegawaian negara&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+                        <iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0"
+                            marginwidth="0"
+                            src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=kantor pusat badan kepegawaian negara&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
                     </div>
                 </div>
             </div>
+            <hr>
+            </br>
 
         </div>
     </section>
@@ -166,17 +194,6 @@
     </footer>
     <!-- Footer Section End -->
 
-    <div id="copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="site-info">
-                        <p>DUMI © 2022 - Fidac Inovasi Teknologi</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <!-- Go to Top Link -->
     <a href="#" class="back-to-top">

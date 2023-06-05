@@ -1387,9 +1387,13 @@ a.back-to-top:focus {
 }
 
 .card-body {
-  /* padding: 15px 0; */
-  padding: 15px 40px;
+  padding: 15px 0;
+  /* padding: 15px 40px; */
   /* padding: 1.25rem; */
+}
+
+.faq-answer {
+  padding: 15px 40px;
 }
 
 .team-item {
