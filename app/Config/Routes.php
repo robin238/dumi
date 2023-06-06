@@ -34,6 +34,7 @@ $routes->get('/', 'Dashboard::index');
 $routes->get('/tentang', 'Tentang_kami::index');
 $routes->get('/kontak', 'Kontak::index');
 $routes->get('/investor', 'Investor::index');
+$routes->get('/kebijakan_privasi', 'kebijakan_privasi::index');
 
 /*
  * --------------------------------------------------------------------
