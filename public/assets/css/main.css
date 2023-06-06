@@ -116,6 +116,11 @@ ol li {
   margin-bottom: 15px;
 }
 
+.title-lembaga{
+  font-size: 25px;
+  color:#54595F
+}
+
 .part {
   padding: 0 5px 0 5px;
 }

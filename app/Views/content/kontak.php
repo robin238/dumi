@@ -63,10 +63,9 @@
                 <div class="col-md-12 col-sm-12">
                     <h4 style="color:#208de6;font-size: 30px">Operational Office</h4>
                     <h5 style="font-weight: Bold">Gedung II Lt. 12 - BKN Pusat</h5>
-                    <p style="font-size:18px;line-height:1.7;color:rgb(48, 48, 48);margin: bottom 20px;">Jl. Mayjen
-                        Sutoyo No. 12, Cililitan, Jakarta Timur, DKI Jakarta 13640
-                        <br>Senin-Jumat: <b style="font-weight: 900;">09.00 - 16.00</b>
-                        <br>Sabtu-Minggu: Tutup
+                    <p style="font-size:18px;line-height:1.7;color:rgb(48, 48, 48);margin: bottom 20px;">Jl. Mayjen Sutoyo No. 12, Cililitan, Jakarta Timur, DKI Jakarta 13640
+                    <br><br>Senin-Jumat: <b style="font-weight: 900;">09.00 - 16.00</b> 
+                    <br>Sabtu-Minggu: Tutup
                     </p>
                 </div>
                 <div class="mapouter">
@@ -85,37 +84,115 @@
     <!-- Coundown Section End -->
 
     <!-- Sponsors Section Start -->
-    <section id="sponsors" class="section-padding">
-        <div class="container">
+    <section id="sponsors" class="section-padding" style ="padding-top:0;margin-bottom:50px">
+        <div class="container text-center">
+        <div class="row">
+            <div class="col-md-8 mx-auto">
+                <div class="row mb-30 text-center wow fadeInDown" data-wow-delay="0.3s">
 
-            <div class="row mb-30 text-center wow fadeInDown" data-wow-delay="0.3s">
-                <div class="col-md-3 col-sm-3 col-xs-12">
-                    <i class="fa-solid fa-phone fa-2xl" style="color:#0693e3;margin-bottom: 40px"></i>
-                    <p>(021) 8093008 ext. <br> 4218 <br> 0813-1582-3033 </p>
+                
+                <div class="col-md-3 col-sm-3 col-xs-12 ">
+                    <i class="fa-solid fa-phone fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i>
+                    <p style ="font-size:16px">(021) 8093008 ext. <br> 4218 <br> 0813-1582-3033 </p>
                 </div>
-                <div class="col-md-3 col-sm-3 col-xs-12">
-                    <i class="fa-solid fa-envelope fa-2xl" style="color:#0693e3;margin-bottom: 40px"></i>
-                    <p>cs@minjem.com</p>
+                <div class="col-md-3 col-sm-3 col-xs-12"  >
+                    <i class="fa-solid fa-envelope fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i> 
+                    <p style ="font-size:16px">cs@minjem.com</p>
                 </div>
-                <div class="col-md-3 col-sm-3 col-xs-12">
-                    <i class="fa-brands fa-instagram fa-2xl" style="color:#0693e3;margin-bottom: 40px"></i>
-                    <p>@dumi_id</p>
+                <div class="col-md-3 col-sm-3 col-xs-12"  >
+                    <i class="fa-brands fa-instagram fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i>
+                    <p style ="font-size:16px">@dumi_id</p>
                 </div>
-                <div class="col-md-3 col-sm-3 col-xs-12">
-                    <i class="fa-brands fa-facebook fa-2xl" style="color:#0693e3;margin-bottom: 40px"></i>
-                    <p>Dumi Indonesia</p>
+                <div class="col-md-3 col-sm-3 col-xs-12"  >
+                    <i class="fa-brands fa-facebook fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i>
+                    <p style ="font-size:16px">Dumi Indonesia</p>
                     <!-- <div class="spnsors-logo">
                    
                     </div> -->
                 </div>
-
+                </div>
             </div>
         </div>
+    </div>
     </section>
     <!-- Sponsors Section End -->
 
 
 
+    <!-- Footer Section Start -->
+    <footer class="footer-area section-padding">
+        <div class="container">
+           
+            <div class="row">
+                <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.2s">
+                    <h3><img src="assets/img/dumi/dumi-logo-real-A.png" width="230px"></h3>
+                    <p>
+                    Dumi adalah pinjaman online khusus pegawai di instansi, kementerian dan lembaga yang sudah bekerjasama.
+                    </p>
+                </div>
+                <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.4s">
+                    <h3>QUICK LINKS</h3>
+                    <ul>
+                        <li><a href="#">About Conference</a></li>
+                        <li><a href="#">Our Speakers</a></li>
+                        <li><a href="#">Event Shedule</a></li>
+                        <li><a href="#">Latest News</a></li>
+                        <li><a href="#">Event Photo Gallery</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.6s">
+                    <h3>RECENT POSTS</h3>
+                    <ul class="image-list">
+                        <li>
+                            <figure class="overlay">
+                                <img class="img-fluid" src="assets/img/art/a1.jpg" alt="">
+                            </figure>
+                            <div class="post-content">
+                                <h6 class="post-title"> <a href="blog-single.html">Lorem ipsm dolor sumit.</a> </h6>
+                                <div class="meta"><span class="date">October 12, 2018</span></div>
+                            </div>
+                        </li>
+                        <li>
+                            <figure class="overlay">
+                                <img class="img-fluid" src="assets/img/art/a2.jpg" alt="">
+                            </figure>
+                            <div class="post-content">
+                                <h6 class="post-title"><a href="blog-single.html">Lorem ipsm dolor sumit.</a></h6>
+                                <div class="meta"><span class="date">October 12, 2018</span></div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.8s">
+                    <h3>SUBSCRIBE US</h3>
+                    <div class="widget">
+                        <div class="newsletter-wrapper">
+                            <form method="post" id="subscribe-form" name="subscribe-form" class="validate">
+                                <div class="form-group is-empty">
+                                    <input type="email" value="" name="Email" class="form-control" id="EMAIL"
+                                        placeholder="Your email" required="">
+                                    <button type="submit" name="subscribe" id="subscribes"
+                                        class="btn btn-common sub-btn"><i class="lni-pointer"></i></button>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <!-- /.widget -->
+                    <div class="widget">
+                        <h5 class="widget-title">FOLLOW US ON</h5>
+                        <ul class="footer-social">
+                            <li><a class="facebook" href="#"><i class="lni-facebook-filled"></i></a></li>
+                            <li><a class="twitter" href="#"><i class="lni-twitter-filled"></i></a></li>
+                            <li><a class="linkedin" href="#"><i class="lni-linkedin-filled"></i></a></li>
+                            <li><a class="google-plus" href="#"><i class="lni-google-plus"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer Section End -->
 
 
     <!-- Go to Top Link -->
