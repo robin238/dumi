@@ -1,5 +1,5 @@
 /* @import url("https://fonts.googleapis.com/css?family=Lato:400|Josefin+Sans:700"); */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Quicksand:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Quicksand:wght@600&display=swap');
 
 html {
   overflow-x: hidden;
@@ -2018,8 +2018,8 @@ a.back-to-top:focus {
 #copyright p a:hover {
   color: #E91E63;
 }
-/* 
-#copyright :after {
+
+/* #copyright:after {
   position: absolute;
   content: '';
   left: 0px;
@@ -2548,3 +2548,16 @@ a.back-to-top:focus {
   content: counters(item, ".") " ";
   counter-increment: item;
 } */
+.kebijakan_privasi p {
+  margin: 0 0 10px;
+  /* font-family: 'Lato', sans-serif; */
+  text-align: justify;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.65;
+  color: #383838;
+}
+
+.kebijakan_privasi p:nth-child(even) {
+  margin-bottom: 30px;
+}
