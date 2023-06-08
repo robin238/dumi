@@ -75,13 +75,14 @@
                         privasi ini. Anda dengan ini menyatakan dan menjamin bahwa seluruh keluarga, teman dan
                         karyawan-karyawan yang informasi pribadinya anda berikan kepada kami bahwa mereka telah
                         menyetujui untuk digunakan, diproses, disimpan dan atau diungkap informasi pribadinya sehubungan
-                        dengan kebijakan privasi ini dan semua aturan hukum dan perundang-undangan yang berlaku.</p>
-
-
-
-                    <p>Kami dapat menanyakan kepada anda untuk menyediakan informasi tertentu yang dapat
-                        mengidentifikasi informasi yang berhubungan dengan anda atau dapat digunakan untuk melakukan
+                        dengan kebijakan privasi ini dan semua aturan hukum dan perundang-undangan yang berlaku. Kami
+                        dapat menanyakan kepada anda untuk menyediakan informasi tertentu yang dapat mengidentifikasi
+                        informasi yang berhubungan dengan anda atau dapat digunakan untuk melakukan
                         kontak atau mengidentifikasikan anda.</p>
+
+
+
+                    <p></p>
 
 
 
@@ -89,24 +90,26 @@
 
 
 
-                    <p>a) Informasi kontak seperti Nama Lengkap anda, nomor yang dapat dihubungi, alamat email, alamat,
-                        alamat kantor, dan informasi lain yang serupa;</p>
-
-
-
-                    <p>b) Informasi keuangan seperti Rekening Bank secara lengkap dan/atau Kartu Kredit; dan</p>
-
-
-
-                    <p>c) Informasi pribadi yang sensitive seperti tanggal lahir, jenis kelamin, kewarganegaraan, status
-                        pernikahan, dan/atau data lengkap di Kartu Identitas resmi anda (secara kolektif disebut dengan
-                        “Informasi Pribadi”). Informasi Identifikasi Pribadi tidak termasuk anonim atau informasi yang
-                        dikumpulkan dengan maksud bukan untuk mengidentifikasi orang secara spesifik. Kami juga dapat
-                        memerlukan foto-foto dari Informasi Pribadi, yang mungkin berlaku selama proses permohonan atau
-                        selama pinjaman aktif secara layak untuk memverifikasi seluruh informasi yang telah anda berikan
-                        kepada Perusahaan.</p>
-
-
+                    <p>
+                    <ol type="a">
+                        <li>Informasi kontak seperti Nama Lengkap anda, nomor yang dapat dihubungi, alamat email,
+                            alamat, alamat kantor, dan informasi lain yang serupa.</li>
+                        <li>Informasi keuangan seperti Rekening Bank secara lengkap dan/atau Kartu Kredit.</li>
+                        <li>Informasi pribadi yang sensitive seperti tanggal lahir, jenis kelamin, kewarganegaraan,
+                            status
+                            pernikahan, dan/atau data lengkap di Kartu Identitas resmi anda (secara kolektif disebut
+                            dengan
+                            “Informasi Pribadi”). Informasi Identifikasi Pribadi tidak termasuk anonim atau informasi
+                            yang
+                            dikumpulkan dengan maksud bukan untuk mengidentifikasi orang secara spesifik. Kami juga
+                            dapat
+                            memerlukan foto-foto dari Informasi Pribadi, yang mungkin berlaku selama proses permohonan
+                            atau
+                            selama pinjaman aktif secara layak untuk memverifikasi seluruh informasi yang telah anda
+                            berikan
+                            kepada Perusahaan.</li>
+                    </ol>
+                    </p>
 
                     <p>Kami memiliki hak tanpa pemberitahuan sebelumnya kepada anda untuk memperbaharui jenis Informasi
                         Pribadi yang mungkin dibutuhkan untuk disediakan dengan menambahkan komponen atau menghapus
@@ -458,15 +461,9 @@
 
 
 
-                    <p>Alamat: PT. Fidac Inovasi Teknologi.</p>
+                    <p>Alamat: PT. Fidac Inovasi Teknologi. Badan Kepegawaian Negara Gedung II Lantai 12, Jalan Mayjen
+                        Sutoyo No.12, Jakarta Timur</p>
 
-
-
-                    <p>Badan Kepegawaian Negara Gedung II Lantai 12</p>
-
-
-
-                    <p>Jalan Mayjen Sutoyo No.12, Jakarta Timur</p>
                 </section>
 
             </div>
@@ -518,6 +515,7 @@
     <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyCsa2Mi2HqyEcEnM1urFSIGEpvualYjwwM">
     </script>
 
+    <?= $this->include('footer') ?>
 </body>
 
 </html>
