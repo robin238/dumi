@@ -15,19 +15,20 @@
                         <div class="th-contact-info-widget">
                             <div class="icon-blocks">
                                 <div class="icon-block">
-                                    <p><a target="_blank" href="mailto:cs@minjem.com"><i
+                                    <p><a target="_blank" href="mailto:cs@minjem.com" style="color: #c0c0c0;"><i
                                                 class="fa-regular fa-envelope-open" style="color: #c0c0c0;"></i><span
                                                 class="ml-2">cs@minjem.com</span></a></p>
                                 </div>
+                                <br>
                                 <div class="icon-block">
-                                    <p><a target="_blank" href="tel:0813-1582-3033"><i class="fa-regular fa-comment"
+                                    <p><a target="_blank" href="tel:0813-1582-3033" style="color: #c0c0c0;"><i class="fa-regular fa-comment"
                                                 style="color: #c0c0c0;"></i><span class="ml-2">0813-1582-3033</span></a>
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
-
+                    <br>
                     <div class="mt-2">
                         <h3>Follow Dumi</h3>
                         <a target="_blank" href="https://www.facebook.com/Dumi.Indonesia"><i
@@ -40,8 +41,8 @@
 
                 </div>
                 <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.6s">
-                    <h3>RECENT POSTS</h3>
-                    <ul class="image-list">
+                    <h3>Link Penting</h3>
+                    <!-- <ul class="image-list">
                         <li>
                             <figure class="overlay">
                                 <img class="img-fluid" src="assets/img/art/a1.jpg" alt="">
@@ -60,8 +61,26 @@
                                 <div class="meta"><span class="date">October 12, 2018</span></div>
                             </div>
                         </li>
-                    </ul>
-                </div>
+                    </ul> -->
+                    <div class="th-contact-info-widget">
+                            <div class="icon-blocks">
+                                <div class="icon-block mb-3">
+                                    <p><a href="/kebijakan-privasi" style="font-size:17px;color: #c0c0c0;">Kebijakan Privasi</a></p>
+                                </div>
+                                <div class="icon-block mb-3">
+                                    <p><a href="/syarat-ketentuan" style="font-size:17px;color: #c0c0c0;">Syarat & Ketentuan</a>
+                                    </p>
+                                </div>
+                                <div class="icon-block mb-3">
+                                    <p> <a href="/disclaimer" style="font-size:17px;color: #c0c0c0;">Disclaimer</a>
+                                    </p>
+                                </div>
+                                <div class="icon-block mb-3">
+                                    <img src="../assets/img/dumi/iso-afpi.png" width="150px" height="60px">
+                                </div>
+                            </div>
+                        </div>
+                  </div>
 
             </div>
         </div>

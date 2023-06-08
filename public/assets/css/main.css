@@ -1203,7 +1203,7 @@ a.back-to-top:focus {
   padding: 0;
 }
 
-.accordion .card-header i {
+/* .accordion .card-header i {
   color: #E91E63;
   width: 40px;
   height: 40px;
@@ -1211,8 +1211,8 @@ a.back-to-top:focus {
   line-height: 40px;
   text-align: center;
   margin-right: 10px;
-  /* border-right: 1px solid #ddd; */
-}
+  border-right: 1px solid #ddd;
+} */
 
 .accordion .card-body {
   padding-left: 56px;
@@ -2018,7 +2018,7 @@ a.back-to-top:focus {
 #copyright p a:hover {
   color: #E91E63;
 }
-
+/* 
 #copyright :after {
   position: absolute;
   content: '';
@@ -2027,7 +2027,7 @@ a.back-to-top:focus {
   width: 48px;
   height: 1px;
   background-color: #E91E63;
-}
+} */
 
 /* .section-title:after {
   position: absolute;
@@ -2537,3 +2537,14 @@ a.back-to-top:focus {
   background-color: transparent;
   text-align: left;
 }
+
+/* .syarat ol {
+  counter-reset: item;
+}
+.syarat li {
+  display: block
+}
+.syarat li:before {
+  content: counters(item, ".") " ";
+  counter-increment: item;
+} */

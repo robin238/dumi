@@ -156,16 +156,20 @@
                             <div class="card-body">
                                 <p>
                                     Konsultan Hukum:
+                                    <br>
                                     <b> Fahmy Hoessein & Partners (Advocates and Legal Consultant)</b>
-
+                                    <br> <br>
                                     Alamat:
+                                    <br>
                                     <b> Komplek Ruko Darmawangsa Square No. 47 Jalan Darmawangsa VI
                                         Kebayoran Baru, Jakarta Selatan</b>
-
+                                    <br><br>
                                     Telepon:
+                                    <br>
                                     <b> (+62)21 725 7253 </b>
-
+                                    <br> <br>
                                     Email:
+                                    <br>
                                     <b style="">info@fh-legalconsultant.com </b>
                                 </p>
                             </div>
@@ -184,13 +188,15 @@
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                             data-parent="#accordion">
                             <div class="card-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                                squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck
-                                quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it
-                                squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica,
-                                craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur
-                                butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth
-                                nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                            Akuntan Publik:
+                            <br>
+                            <b>Jimy Abadi</b> 
+                            <br><br>
+
+                            Alamat:
+                            <br>
+                            <b> Voza, Jl. Mayjen HR. Muhammad No. 31 A Sonokwijenan, Kec. Sukomanunggal
+                            Surabaya, Jawa Timur 60189</b> 
                             </div>
                         </div>
                     </div>
@@ -206,13 +212,20 @@
                         </div>
                         <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
                             <div class="card-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                                squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck
-                                quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it
-                                squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica,
-                                craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur
-                                butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth
-                                nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                           <b> PT Korea Investment and Sekuritas Indonesia</b>
+                           <br> <br>
+                            Alamat:
+                            <br>
+                            <b> Equity Tower, Lantai 9 & 22 SCBD Lot 9 Jalan Jenderal Sudirman Kav. 52-53 Senayan
+                            Kebayoran Baru, Jakarta Selatan 12190</b>
+                            <br> <br>
+                            Telepon:
+                            <br>
+                            <b> (021) 29911911</b>
+                            <br> <br>
+                            Email:
+                            <br>
+                            <a href="mailto:CS@Kisi.co.id">CS@Kisi.co.id</a>
                             </div>
                         </div>
                     </div>
@@ -228,305 +241,36 @@
                         </div>
                         <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
                             <div class="card-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                                squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck
-                                quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it
-                                squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica,
-                                craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur
-                                butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth
-                                nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                            BAE:
+                            <br>
+                            <b> PT Sinartama Gunita (BAE Perseroan)</b>
+                            <br> <br>
+                            Alamat:
+                            <br>
+                            <b>
+                            Sinarmas Land Plaza Tower 3
+                            Jl. M.H. Thamrin No.51, RT.9/RW.4 Gondangdia, Menteng
+                            Jakarta Pusat 10350</b>
+                            <br> <br>
+                            Telepon:
+                            <br>
+                            <b>(021) 3922332</b>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <br>
+            <div>
+            <a href="../assets/dokumen/Akta-PT-Fidac-Inovasi-Teknologi-Tbk..pdf"><i class="fa-solid fa-file-lines" style="color: #949494;"></i>Akta Perusahaan</a>
+            </div>
 
         </div>
     </section>
     <!-- About Section End -->
 
-    <!-- Ask Question Section Start -->
-    <section id="faq" class="section-padding">
-        <div class="container">
 
-        </div>
-    </section>
-    <section id="faq" class="section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-title-header text-center">
-                        <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Ask Question?</h1>
-                        <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                    <div class="accordion">
-                        <div class="card">
-                            <div class="card-header" id="headingOne">
-                                <div class="header-title" data-toggle="collapse" data-target="#questionOne"
-                                    aria-expanded="true" aria-controls="collapseOne">
-                                    <i class="fas fa-chevron-down"></i>How to make a new event?
-                                </div>
-                            </div>
-                            <div id="questionOne" class="collapse" aria-labelledby="headingOne" data-parent="#question">
-                                <div class="card-body">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
-                                    richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
-                                    brunch. Food truck quinoa nesciunt laborum eiusmod.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" id="headingTwo">
-                                <div class="header-title" data-toggle="collapse" data-target="#questionTwo"
-                                    aria-expanded="false" aria-controls="questionTwo">
-                                    <i class="lni-pencil"></i> Which payment methods do you accept?
-                                </div>
-                            </div>
-                            <div id="questionTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#question">
-                                <div class="card-body">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
-                                    richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
-                                    brunch. Food truck quinoa nesciunt laborum eiusmod.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" id="headingThree">
-                                <div class="header-title" data-toggle="collapse" data-target="#questionThree"
-                                    aria-expanded="false" aria-controls="questionThree">
-                                    <i class="lni-pencil"></i> Which document can i bring to meeting?
-                                </div>
-                            </div>
-                            <div id="questionThree" class="collapse" aria-labelledby="headingThree"
-                                data-parent="#question">
-                                <div class="card-body">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
-                                    richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
-                                    brunch. Food truck quinoa nesciunt laborum eiusmod.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" id="headingThree">
-                                <div class="header-title" data-toggle="collapse" data-target="#questionFour"
-                                    aria-expanded="false" aria-controls="questionFour">
-                                    <i class="lni-pencil"></i> Who can join at the live event venue?
-                                </div>
-                            </div>
-                            <div id="questionFour" class="collapse" aria-labelledby="headingThree"
-                                data-parent="#question">
-                                <div class="card-body">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
-                                    richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
-                                    brunch. Food truck quinoa nesciunt laborum eiusmod.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                    <div class="accordion">
-                        <div class="card">
-                            <div class="card-header" id="headingOne2">
-                                <div class="header-title" data-toggle="collapse" data-target="#questionOne2"
-                                    aria-expanded="true" aria-controls="collapseOne">
-                                    <i class="lni-pencil"></i> How to make a new event?
-                                </div>
-                            </div>
-                            <div id="questionOne2" class="collapse" aria-labelledby="headingOne"
-                                data-parent="#question">
-                                <div class="card-body">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
-                                    richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
-                                    brunch. Food truck quinoa nesciunt laborum eiusmod.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" id="headingTwo2">
-                                <div class="header-title" data-toggle="collapse" data-target="#questionTwo2"
-                                    aria-expanded="false" aria-controls="questionTwo">
-                                    <i class="lni-pencil"></i> Which payment methods do you accept?
-                                </div>
-                            </div>
-                            <div id="questionTwo2" class="collapse" aria-labelledby="headingTwo"
-                                data-parent="#question">
-                                <div class="card-body">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
-                                    richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
-                                    brunch. Food truck quinoa nesciunt laborum eiusmod.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" id="headingThree">
-                                <div class="header-title" data-toggle="collapse" data-target="#questionFive"
-                                    aria-expanded="false" aria-controls="questionFive">
-                                    <i class="lni-pencil"></i>How to set price?
-                                </div>
-                            </div>
-                            <div id="questionFive" class="collapse" aria-labelledby="headingThree"
-                                data-parent="#question">
-                                <div class="card-body">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
-                                    richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
-                                    brunch. Food truck quinoa nesciunt laborum eiusmod.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" id="headingThree">
-                                <div class="header-title" data-toggle="collapse" data-target="#questionSix"
-                                    aria-expanded="false" aria-controls="questionSix">
-                                    <i class="lni-pencil"></i> What our price list?
-                                </div>
-                            </div>
-                            <div id="questionSix" class="collapse" aria-labelledby="headingThree"
-                                data-parent="#question">
-                                <div class="card-body">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
-                                    richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
-                                    brunch. Food truck quinoa nesciunt laborum eiusmod.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Ask Question Section End -->
-
-    <!-- Footer Section Start -->
-    <footer class="footer-area section-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.2s">
-                    <h3><img src="assets/img/logo.png" alt=""></h3>
-                    <p>
-                        Aorem ipsum dolor sit amet elit sed lum tempor incididunt ut labore el dolore alg minim veniam
-                        quis nostrud ncididunt.
-                    </p>
-                </div>
-                <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.4s">
-                    <h3>QUICK LINKS</h3>
-                    <ul>
-                        <li><a href="#">About Conference</a></li>
-                        <li><a href="#">Our Speakers</a></li>
-                        <li><a href="#">Event Shedule</a></li>
-                        <li><a href="#">Latest News</a></li>
-                        <li><a href="#">Event Photo Gallery</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.6s">
-                    <h3>RECENT POSTS</h3>
-                    <ul class="image-list">
-                        <li>
-                            <figure class="overlay">
-                                <img class="img-fluid" src="assets/img/art/a1.jpg" alt="">
-                            </figure>
-                            <div class="post-content">
-                                <h6 class="post-title"> <a href="blog-single.html">Lorem ipsm dolor sumit.</a> </h6>
-                                <div class="meta"><span class="date">October 12, 2018</span></div>
-                            </div>
-                        </li>
-                        <li>
-                            <figure class="overlay">
-                                <img class="img-fluid" src="assets/img/art/a2.jpg" alt="">
-                            </figure>
-                            <div class="post-content">
-                                <h6 class="post-title"><a href="blog-single.html">Lorem ipsm dolor sumit.</a></h6>
-                                <div class="meta"><span class="date">October 12, 2018</span></div>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.8s">
-                    <h3>SUBSCRIBE US</h3>
-                    <div class="widget">
-                        <div class="newsletter-wrapper">
-                            <form method="post" id="subscribe-form" name="subscribe-form" class="validate">
-                                <div class="form-group is-empty">
-                                    <input type="email" value="" name="Email" class="form-control" id="EMAIL"
-                                        placeholder="Your email" required="">
-                                    <button type="submit" name="subscribe" id="subscribes"
-                                        class="btn btn-common sub-btn"><i class="lni-pointer"></i></button>
-                                    <div class="clearfix"></div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                    <!-- /.widget -->
-                    <div class="widget">
-                        <h5 class="widget-title">FOLLOW US ON</h5>
-                        <ul class="footer-social">
-                            <li><a class="facebook" href="#"><i class="lni-facebook-filled"></i></a></li>
-                            <li><a class="twitter" href="#"><i class="lni-twitter-filled"></i></a></li>
-                            <li><a class="linkedin" href="#"><i class="lni-linkedin-filled"></i></a></li>
-                            <li><a class="google-plus" href="#"><i class="lni-google-plus"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- Footer Section End -->
-
-    <div id="copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="site-info">
-                        <p>© Designed and Developed by <a href="http://uideck.com" rel="nofollow">UIdeck</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Go to Top Link -->
-    <a href="#" class="back-to-top">
-        <i class="lni-chevron-up"></i>
-    </a>
-
-    <div id="preloader">
-        <div class="sk-circle">
-            <div class="sk-circle1 sk-child"></div>
-            <div class="sk-circle2 sk-child"></div>
-            <div class="sk-circle3 sk-child"></div>
-            <div class="sk-circle4 sk-child"></div>
-            <div class="sk-circle5 sk-child"></div>
-            <div class="sk-circle6 sk-child"></div>
-            <div class="sk-circle7 sk-child"></div>
-            <div class="sk-circle8 sk-child"></div>
-            <div class="sk-circle9 sk-child"></div>
-            <div class="sk-circle10 sk-child"></div>
-            <div class="sk-circle11 sk-child"></div>
-            <div class="sk-circle12 sk-child"></div>
-        </div>
-    </div>
-
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="assets/js/jquery-min.js"></script>
-    <script src="assets/js/popper.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/jquery.countdown.min.js"></script>
-    <script src="assets/js/jquery.nav.js"></script>
-    <script src="assets/js/jquery.easing.min.js"></script>
-    <script src="assets/js/wow.js"></script>
-    <script src="assets/js/jquery.slicknav.js"></script>
-    <script src="assets/js/nivo-lightbox.js"></script>
-    <script src="assets/js/main.js"></script>
-    <script src="assets/js/form-validator.min.js"></script>
-    <script src="assets/js/contact-form-script.min.js"></script>
-    <script src="assets/js/map.js"></script>
-    <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyCsa2Mi2HqyEcEnM1urFSIGEpvualYjwwM">
-    </script>
+    <?= $this->include('footer') ?>
 
 </body>
 
