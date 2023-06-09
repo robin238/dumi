@@ -12,7 +12,7 @@
         <?= $this->include('navbar') ?>
 
         <div class="header">
-            Hubungi Kami
+            Hubungi Kami <?php echo $title ; ?>
         </div>
 
     </header>
@@ -63,9 +63,10 @@
                 <div class="col-md-12 col-sm-12">
                     <h4 style="color:#208de6;font-size: 30px">Operational Office</h4>
                     <h5 style="font-weight: Bold">Gedung II Lt. 12 - BKN Pusat</h5>
-                    <p style="font-size:18px;line-height:1.7;color:rgb(48, 48, 48);margin: bottom 20px;">Jl. Mayjen Sutoyo No. 12, Cililitan, Jakarta Timur, DKI Jakarta 13640
-                    <br><br>Senin-Jumat: <b style="font-weight: 900;">09.00 - 16.00</b> 
-                    <br>Sabtu-Minggu: Tutup
+                    <p style="font-size:18px;line-height:1.7;color:rgb(48, 48, 48);margin: bottom 20px;">Jl. Mayjen
+                        Sutoyo No. 12, Cililitan, Jakarta Timur, DKI Jakarta 13640
+                        <br><br>Senin-Jumat: <b style="font-weight: 900;">09.00 - 16.00</b>
+                        <br>Sabtu-Minggu: Tutup
                     </p>
                 </div>
                 <div class="mapouter">
@@ -84,42 +85,41 @@
     <!-- Coundown Section End -->
 
     <!-- Sponsors Section Start -->
-    <section id="sponsors" class="section-padding" style ="padding-top:0;margin-bottom:50px">
+    <section id="sponsors" class="section-padding" style="padding-top:0;margin-bottom:50px">
         <div class="container text-center">
-        <div class="row">
-            <div class="col-md-8 mx-auto">
-                <div class="row mb-30 text-center wow fadeInDown" data-wow-delay="0.3s">
+            <div class="row">
+                <div class="col-md-8 mx-auto">
+                    <div class="row mb-30 text-center wow fadeInDown" data-wow-delay="0.3s">
 
-                
-                <div class="col-md-3 col-sm-3 col-xs-12 ">
-                    <i class="fa-solid fa-phone fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i>
-                    <p style ="font-size:16px">(021) 8093008 ext. <br> 4218 <br> 0813-1582-3033 </p>
-                </div>
-                <div class="col-md-3 col-sm-3 col-xs-12"  >
-                    <i class="fa-solid fa-envelope fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i> 
-                    <p style ="font-size:16px">cs@minjem.com</p>
-                </div>
-                <div class="col-md-3 col-sm-3 col-xs-12"  >
-                    <i class="fa-brands fa-instagram fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i>
-                    <p style ="font-size:16px">@dumi_id</p>
-                </div>
-                <div class="col-md-3 col-sm-3 col-xs-12"  >
-                    <i class="fa-brands fa-facebook fa-2xl" style ="color:#0693e3;margin-bottom: 40px"></i>
-                    <p style ="font-size:16px">Dumi Indonesia</p>
-                    <!-- <div class="spnsors-logo">
+
+                        <div class="col-md-3 col-sm-3 col-xs-12 ">
+                            <i class="fa-solid fa-phone fa-2xl" style="color:#0693e3;margin-bottom: 40px"></i>
+                            <p style="font-size:16px">(021) 8093008 ext. <br> 4218 <br> 0813-1582-3033 </p>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-12">
+                            <i class="fa-solid fa-envelope fa-2xl" style="color:#0693e3;margin-bottom: 40px"></i>
+                            <p style="font-size:16px">cs@minjem.com</p>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-12">
+                            <i class="fa-brands fa-instagram fa-2xl" style="color:#0693e3;margin-bottom: 40px"></i>
+                            <p style="font-size:16px">@dumi_id</p>
+                        </div>
+                        <div class="col-md-3 col-sm-3 col-xs-12">
+                            <i class="fa-brands fa-facebook fa-2xl" style="color:#0693e3;margin-bottom: 40px"></i>
+                            <p style="font-size:16px">Dumi Indonesia</p>
+                            <!-- <div class="spnsors-logo">
                    
                     </div> -->
-                </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
     </section>
     <!-- Sponsors Section End -->
 
 
     <?= $this->include('footer') ?>
-
 
 </body>
 

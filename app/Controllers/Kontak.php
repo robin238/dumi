@@ -6,6 +6,12 @@ class Kontak extends BaseController
 {
     public function index()
     {
-        return view('content/kontak');
+        $data = array(
+            'title' => 'Title'
+        );
+
+		$this->load->view('layout/index', $data);
+        return view('content/kontak', $data);
+ 
     }
 }
