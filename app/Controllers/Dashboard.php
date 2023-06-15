@@ -6,6 +6,10 @@ class Dashboard extends BaseController
 {
     public function index()
     {
-        return view('layout');
+        $data = array(
+            'title' => 'Beranda'
+        );
+
+        return view('layout', $data);
     }
 }

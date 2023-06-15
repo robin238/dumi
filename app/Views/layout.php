@@ -75,10 +75,10 @@
     </header>
     <!-- Header Area wrapper End -->
 
-    <section id="services" class="services section-padding">
+    <section id="services" class="services section-padding layout-layer-1">
         <div class="container">
             <div class="row bangkit">
-                <div class="col-6 bangkit1">
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 bangkit1">
                     <h2> Bangkit Bersama Dumi</h2>
 
                     <p>Dumi adalah
@@ -89,120 +89,111 @@
                         Aparatur Sipil Negara di
                         Indonesia.</p>
                 </div>
-                <div class="col-6 bangkit2">
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 bangkit2">
 
-                    <div class="row">
+                    <!-- <table>
+                        <tr>
+                            <td> <img src="assets/img/dumi/money.png" alt=""></td>
+                            <td>
+                                <h5>Rp 632 M</h5>
+                                <p>Pendanaan Sejak Berdiri</p>
+                            </td>
+                            <td> <img src="assets/img/dumi/coin.png" alt=""></td>
+                            <td>
+                                <h5>Rp 162 M</h5>
+                                <p>Pendanaan Tahun Ini</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td> <img src="assets/img/dumi/user.png" alt=""></td>
+                            <td>
+                                <h5>8.678</h5>
+                                <p>Total Penerima Dana</p>
+                            </td>
+                            <td> <img src="assets/img/dumi/build.png" alt=""></td>
+                            <td>
+                                <h5>3 Institusi</h5>
+                                <p>Pemberi Dana</p>
+                            </td>
+                        </tr>
+                    </table> -->
+
+
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                         <div class="row">
-                            <div class="col-4">
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                                 <img src="assets/img/dumi/money.png" alt="">
+                                <h5>Rp 632 M</h5>
+                                <p>Pendanaan Sejak Berdiri</p>
                             </div>
-                            <div class="col-8">
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <img src="assets/img/dumi/money.png" alt="">
                                 <h5>Rp 632 M</h5>
                                 <p>Pendanaan Sejak Berdiri</p>
                             </div>
 
                         </div>
-                        <div class="row">
-                            <div class="col-4">
-                                <img src="assets/img/dumi/coin.png" alt="">
-                            </div>
-                            <div class="col-8">
-                                <h5>Rp 162 M</h5>
-                                <p>Pendanaan Tahun Ini</p>
-                            </div>
-
-                        </div>
                     </div>
-
-                    <div class="row">
-
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                         <div class="row">
-                            <div class="col-4">
-                                <img src="assets/img/dumi/user.png" alt="">
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="row">
+                                    <img src="assets/img/dumi/money.png" alt="">
+                                    <h5>Rp 632 M</h5>
+                                    <p>Pendanaan Sejak Berdiri</p>
+                                </div>
                             </div>
-                            <div class="col-8">
-                                <h5>8.678</h5>
-                                <p>Total Penerima Dana</p>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                <div class="row">
+                                    <img src="assets/img/dumi/money.png" alt="">
+                                    <h5>Rp 632 M</h5>
+                                    <p>Pendanaan Sejak Berdiri</p>
+                                </div>
                             </div>
-
                         </div>
-                        <div class="row">
-                            <div class="col-4">
-                                <img src="assets/img/dumi/build.png" alt="">
-                            </div>
-                            <div class="col-8">
-                                <h5 style="margin-left: 15px">3 Institusi</h5>
-                                <p style="margin-left: 15px">Pemberi Dana</p>
-                            </div>
-
-                        </div>
-
-
                     </div>
 
                 </div>
 
-            </div>
+                <div class="row apik">
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 apik1">
+                        <img src="../assets/img/dumi/apik.png" alt="">
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 apik2">
 
-            <div class="row apik">
-                <div class="col-6 apik1">
-                    <img src="../assets/img/dumi/apik.png" alt="">
+                        <h2> Melayani Secara APIK</h2>
+
+                        <p> Dumi APIK merupakan semangat baru Dumi dalam membangun kesadaran masyarakat tentang
+                            inklusi
+                            keuangan yang memiliki banyak manfaat untuk mewujudkan kehidupan yang lebih baik.</p>
+
+                    </div>
+
                 </div>
-                <div class="col-6 apik2">
-
-                    <h2> Melayani Secara APIK</h2>
-
-                    <p> Dumi APIK merupakan semangat baru Dumi dalam membangun kesadaran masyarakat tentang inklusi
-                        keuangan yang memiliki banyak manfaat untuk mewujudkan kehidupan yang lebih baik.</p>
-
-                </div>
-
             </div>
-        </div>
 
 
     </section>
 
-    <!-- Coundown Section Start -->
-    <!-- <section class="countdown-timer section-padding">
-        <div class="container">
-            <div class="row text-center">
-                <div class="col-md-12 col-sm-12 col-xs-12">
-                    <div class="heading-count">
-                        <h2 class="wow fadeInDown" data-wow-delay="0.2s">Event Will Start In</h2>
-                    </div>
-                </div>
-                <div class="col-md-12 col-sm-12 col-xs-12">
-                    <div class="row time-countdown justify-content-center wow fadeInUp" data-wow-delay="0.2s">
-                        <div id="clock" class="time-count"></div>
-                    </div>
-                    <a href="pricing.html" class="btn btn-common wow fadeInUp" data-wow-delay="0.3s">Add to My
-                        Calender</a>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!-- Coundown Section End -->
-
     <!-- Services Section Start -->
-    <section id="services" class="services section-padding"
+    <section id="services" class="services section-padding layout-layer-2"
         style="background: url(assets/img/dumi/peta.png) ,radial-gradient(circle at top left, #0061d4, #0075d4); ">
         <!-- <img src="assets/img/dumi/peta.png" alt="peta" style="position: absolute;"> -->
         <div class="container">
 
             <div class="row">
 
-                <div class="col-8">
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                     <div class="row">
                         <!-- Services item -->
 
                         <div class="wow fadeInDown" data-wow-delay="0.2s">
-                            <img src="assets/img/dumi/handphone.png" alt="">
+                            <img src="assets/img/dumi/handphone.png" alt="" style="width: 100%;min-height: 300px;">
                         </div>
 
                     </div>
                 </div>
-                <div class="col-4 mt-5">
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 mt-5">
                     <div class="row">
                         <!-- Services item -->
 
@@ -242,46 +233,61 @@
     <!-- Services Section End -->
 
 
-    <section id="services" class="section-padding">
+    <section id="services" class="section-padding mt-5 layout-layer-3">
 
         <div class="container">
             <!-- <img src="assets/img/dumi/mini-header_new.png" alt="" style=" position: absolute;"> -->
-            <div class="row"
-                style="height:511px;width:1256; background-image:url(assets/img/dumi/mini-header_new.png) ; background-repeat: no-repeat;">
-                <div class="col-8">
+            <div class="row ajukan" style=" background-image:url(assets/img/dumi/bg-gradient-1.png) ; background-repeat: no-repeat; background-size: auto;
+                    min-height: 300px; border-radius:50px ; ">
+
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                     <div class="row">
                         <!-- Services item -->
 
                         <div class="wow fadeInDown" data-wow-delay="0.2s">
 
-
-                            <p style="font-size:30px ; margin-top: 20% ;width: 60%; margin-left: 25%
-                            ; color: #ffffff; line-height: 50px;">
+                            <p>
                                 Penuhi kebutuhan
                                 Anda segera,
 
                                 <b>#AjukanSecaraApik</b> sekarang!
                             </p>
 
-                            <a href="https://play.google.com/store/apps/details?id=com.minjem.dumi" class="btn download"
-                                target="_blank"> Download Dumi di Playstore </a>
+                            <button href="https://play.google.com/store/apps/details?id=com.minjem.dumi"
+                                class="btn download" target="_blank"> Download Dumi di Playstore </button>
 
-                            <a href="#" style=" display: inline-block;width: 60%;margin-top: 5%; margin-left: 25%
-                            ; color: #ffffff; line-height: 50px; text-decoration: underline;">Pertanyaan umum seputar
+                            <a href="#" class='' style=" ">Pertanyaan
+                                umum seputar
                                 Dumi</a>
                         </div>
 
                     </div>
                 </div>
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <div class="row" style="position: absolute;bottom: 0px;right: 100px; ">
+                        <!-- Services item -->
+
+                        <div class=" wow fadeInDown" data-wow-delay="0.2s">
+                            <div class="row">
+                                <img src="assets/img/dumi/cewek-pns-hp-cropped.png" alt="">
 
 
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
             </div>
+
+
         </div>
+
 
     </section>
 
 
-    <section id="services" class="section-padding">
+    <section id="services" class="section-padding layout-layer-4">
 
         <div class="container">
             <!-- <img src="assets/img/dumi/mini-header_new.png" alt="" style=" position: absolute;"> -->
@@ -349,107 +355,106 @@
 
     </section>
 
-    <section id="faq" class="section-padding">
+    <section id="services" class="section-padding layout-layer-5">
         <div class="container">
-            <div id="accordion">
-                <div class="card">
-                    <div class="card-header" id="headingOne">
-                        <h5 class="mb-0">
-                            <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
-                                aria-expanded="true" aria-controls="collapseOne">
-                                Siapa saja yang dapat mengajukan pinjaman di Dumi?
-                            </button>
-                            <i class="fa" aria-hidden="true" style="float: right;"></i>
-                        </h5>
-                    </div>
-
-                    <div id="collapseOne" class=" card-body show faq-answer" aria-labelledby="headingOne"
-                        data-parent="#accordion">
-
-                        Pagawai Negeri Sipil atau pegawai berpenghasilan tetap dari instansi yang telah bekerja
-                        sama.
-
-
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" id="headingTwo">
-                        <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"
-                                aria-expanded="false" aria-controls="collapseTwo">
-                                Apa syarat pengajuannya?
-                            </button>
-                            <i class="fa" aria-hidden="true" style="float: right;"></i>
-                        </h5>
-                    </div>
-                    <div id="collapseTwo" class=" card-body collapse faq-answer" aria-labelledby="headingTwo"
-                        data-parent="#accordion">
-
-                        <ol>
-                            <li>Pegawai Aktif</li>
-                            <li>Instansi Sudah Bekerjasama</li>
-                            <li>SK Kepegawaian</li>
-                            <li>Surat Rekomendasi Atasan</li>
-                            <li>Surat Kuasa Bendahara</li>
-                            <li>Slip Gaji</li>
-                        </ol>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" id="headingThree">
-                        <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"
-                                aria-expanded="false" aria-controls="collapseThree">
-                                Bagaimana cara mengajukan pinjaman di Dumi?
-                            </button>
-                            <i class="fa" aria-hidden="true" style="float: right;"></i>
-                        </h5>
-                    </div>
-                    <div id="collapseThree" class=" card-body collapse faq-answer" aria-labelledby="headingThree"
-                        data-parent="#accordion">
-                        <div>
-                            Lakukan kerja sama antara instansi dinas Anda dengan Dumi, lalu download aplikasi Dumi di
-                            Playstore dan ajukan sesuai syarat dan ketentuan yang berlaku.
+            <div class="wrapper center-block">
+                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+                        <div class="panel-heading active" role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"
+                                    aria-expanded="true" aria-controls="collapseOne">
+                                    Siapa saja yang dapat mengajukan pinjaman di Dumi?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel"
+                            aria-labelledby="headingOne">
+                            <div class="panel-body">
+                                Pagawai Negeri Sipil atau pegawai berpenghasilan tetap dari instansi yang telah bekerja
+                                sama.
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" id="headingFour">
-                        <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour"
-                                aria-expanded="false" aria-controls="collapseFour">
-                                Bagaimana cara mengajukan kerjasama?
-                            </button>
-                            <i class="fa" aria-hidden="true" style="float: right;"></i>
-                        </h5>
-                    </div>
-                    <div id="collapseFour" class=" card-body collapse faq-answer" aria-labelledby="headingFour"
-                        data-parent="#accordion">
-                        <div>
-                            Silakan hubungi nomor berikut hanya dengan WhatsApp: <b>0813-1582-3033</b>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingTwo">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                                    href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Apa syarat pengajuannya?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel"
+                            aria-labelledby="headingTwo">
+                            <div class="panel-body">
+                                <ol>
+                                    <li>Pegawai Aktif</li>
+                                    <li>Instansi Sudah Bekerjasama</li>
+                                    <li>SK Kepegawaian</li>
+                                    <li>Surat Rekomendasi Atasan</li>
+                                    <li>Surat Kuasa Bendahara</li>
+                                    <li>Slip Gaji</li>
+                                </ol>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" id="headingFive">
-                        <h5 class="mb-0">
-                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive"
-                                aria-expanded="false" aria-controls="collapseFive">
-                                Bagaimana cara melakukan pembayaran angsuran?
-                            </button>
-                            <i class="fa" aria-hidden="true" style="float: right;"></i>
-                        </h5>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingThree">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                                    href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Bagaimana cara mengajukan pinjaman di Dumi?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel"
+                            aria-labelledby="headingThree">
+                            <div class="panel-body">
+                                Lakukan kerja sama antara instansi dinas Anda dengan Dumi, lalu download aplikasi Dumi
+                                di Playstore dan ajukan sesuai syarat dan ketentuan yang berlaku.
+                            </div>
+                        </div>
                     </div>
-                    <div id="collapseFive" class=" card-body collapse faq-answer" aria-labelledby="headingFive"
-                        data-parent="#accordion">
-                        <div>
-                            Pembayaran dilakukan menggunakan virtual akun.
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingFour">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                                    href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Bagaimana cara mengajukan kerjasama?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseFour" class="panel-collapse collapse" role="tabpanel"
+                            aria-labelledby="headingFour">
+                            <div class="panel-body">
+                                Silakan hubungi nomor berikut hanya dengan WhatsApp: <b>0813-1582-3033</b>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingFive">
+                            <h4 class="panel-title">
+                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                                    href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    Bagaimana cara melakukan pembayaran angsuran?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id="collapseFive" class="panel-collapse collapse" role="tabpanel"
+                            aria-labelledby="headingFive">
+                            <div class="panel-body">
+                                Pembayaran dilakukan menggunakan virtual akun.
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+
+
 
 
     <?= $this->include('footer') ?>

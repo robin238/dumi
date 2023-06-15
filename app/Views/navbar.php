@@ -14,23 +14,26 @@
                      style="height:40px;width:80px;"></a>
          </div>
          <div class="collapse navbar-collapse" id="main-navbar">
+             <?php if (!isset($title)) {
+                $title = "";
+                } ?>
              <ul class="navbar-nav mr-auto w-100 justify-content-end">
-                 <li class="nav-item">
+                 <li class="nav-item <?php echo ($title == 'Beranda') ? "active" : '';  ?>">
                      <a class="nav-link" href="/">
                          Beranda
                      </a>
                  </li>
-                 <li class="nav-item">
+                 <li class="nav-item <?php echo ($title == 'Tentang Kami') ? "active" : '';  ?>">
                      <a class="nav-link" href="/tentang">
                          Tentang Kami
                      </a>
                  </li>
-                 <li class="nav-item">
+                 <li class="nav-item <?php echo ($title == 'Investor') ? "active" : '';  ?>">
                      <a class="nav-link" href="/investor">
                          Investor
                      </a>
                  </li>
-                 <li class="nav-item">
+                 <li class="nav-item <?php echo ($title == 'Kontak') ? "active" : '';  ?>">
                      <a class="nav-link" href="/kontak">
                          Kontak
                      </a>

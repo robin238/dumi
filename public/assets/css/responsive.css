@@ -1,35 +1,142 @@
+@media (min-width: 1199px) {
+  .layout-layer-3 .ajukan {
+    height: 350px;
+  }
+
+  .layout-layer-3 .ajukan img {
+    height: 400px;
+    width: 100%;
+  }
+
+  .layout-layer-3 .ajukan .download {
+
+    background-color: green;
+    transition: transform .2s;
+    /* Animation */
+    margin: 0 auto;
+    color: #fff;
+    margin-left: 25%;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #56CF71 0%, #319E49 100%);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.2);
+
+  }
+
+  .layout-layer-3 .ajukan a {
+
+    display: inline-block;
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 25%;
+    color: #ffffff;
+    line-height: 50px;
+    text-decoration: underline;
+
+  }
+
+  .layout-layer-3 .ajukan p {
+
+    font-size: 20px;
+    margin-top: 10%;
+    width: 80%;
+    margin-left: 25%;
+    color: #ffffff;
+    line-height: 50px;
+
+  }
+
+}
+
 /* only small desktops */
 @media (min-width: 992px) and (max-width: 1199px) {
   #main-slide .carousel-caption {
     top: 32%;
   }
+
   .carousel-indicators {
     font-size: 14px;
   }
+
   #main-slide .carousel-item .carousel-caption .heading {
     font-size: 20px;
     margin-top: 5px;
   }
+
   #main-slide .carousel-item .carousel-caption p {
     font-size: 13px;
   }
+
   #hero-area .contents .head-title {
     font-size: 40px;
   }
+
   .navbar-expand-lg .navbar-nav .nav-link {
     padding: 0 10px;
   }
+
   .counter-section .counter p {
     font-size: 14px;
   }
+
   .schedule .schedule-tab-title .nav-tabs .nav-link {
     width: 210px;
   }
+
   #pricing .price-block-wrapper .pricing-list {
     padding: 10px 35px 10px 45px;
   }
+
   #sponsors .spnsors-logo img {
     width: 80%;
+  }
+
+  /*  */
+  .layout-layer-3 .ajukan {
+    height: 325px;
+  }
+
+  .layout-layer-3 .ajukan img {
+    height: 365px;
+    width: 100%;
+  }
+
+  .layout-layer-3 .ajukan .download {
+
+    background-color: green;
+    transition: transform .2s;
+    /* Animation */
+    margin: 0 auto;
+    color: #fff;
+    margin-left: 20%;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #56CF71 0%, #319E49 100%);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.2);
+
+  }
+
+  .layout-layer-3 .ajukan a {
+
+    display: inline-block;
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 20%;
+    color: #ffffff;
+    line-height: 50px;
+    text-decoration: underline;
+
+  }
+
+  .layout-layer-3 .ajukan p {
+
+    font-size: 20px;
+    margin-top: 10%;
+    width: 80%;
+    margin-left: 20%;
+    color: #ffffff;
+    line-height: 50px;
+
   }
 }
 
@@ -38,61 +145,127 @@
   #main-slide .carousel-caption {
     top: 32%;
   }
+
   #main-slide .carousel-item .carousel-caption .heading {
     font-size: 20px;
   }
+
   #main-slide .carousel-item .carousel-caption p {
     font-size: 13px;
   }
+
   .page-title-section {
     padding: 40px 0;
   }
+
   .section-titile-bg {
     display: none;
   }
+
   .section-title {
     position: relative;
     margin-bottom: 10px;
   }
+
   .about-item {
     margin-bottom: 30px;
   }
+
   .accordion .header-title {
     font-size: 12px;
   }
+
   .schedule .schedule-tab-title .nav-tabs .nav-link {
     width: 150px;
   }
+
   .schedule .card-header h4 {
     font-size: 14px;
   }
+
   #pricing .price-block-wrapper .pricing-list {
     padding: 10px 35px 10px 45px;
   }
+
   #sponsors .spnsors-logo img {
     width: 80%;
   }
+
   .padding-none:nth-child(1) {
     border-left: none;
   }
+
   .padding-none:nth-child(3) {
     border-left: none;
   }
+
   .padding-none:nth-child(4) {
     border-bottom: none;
     border-left: 1px solid #ddd;
   }
+
   .padding-none:nth-child(5) {
     border-bottom: none;
     border-left: none;
   }
+
   .padding-none:nth-child(6) {
     border-top: 1px solid #ddd;
     border-bottom: none;
   }
+
   .footer-area h3 {
     margin-top: 30px;
   }
+
+  /*  */
+  .layout-layer-3 .ajukan {
+    height: 315px;
+  }
+
+  .layout-layer-3 .ajukan img {
+    height: 365px;
+    width: 100%;
+  }
+
+  .layout-layer-3 .ajukan .download {
+
+    background-color: green;
+    transition: transform .2s;
+    /* Animation */
+    margin: 0 auto;
+    color: #fff;
+    margin-left: 20%;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #56CF71 0%, #319E49 100%);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.2);
+
+  }
+
+  .layout-layer-3 .ajukan a {
+
+    display: inline-block;
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 20%;
+    color: #ffffff;
+    line-height: 50px;
+    text-decoration: underline;
+
+  }
+
+  .layout-layer-3 .ajukan p {
+
+    font-size: 20px;
+    margin-top: 10%;
+    width: 80%;
+    margin-left: 20%;
+    color: #ffffff;
+    line-height: 50px;
+
+  }
+
 }
 
 /* only small tablets */
@@ -100,57 +273,122 @@
   #main-slide .carousel-caption {
     top: 32%;
   }
+
   #main-slide .carousel-item .carousel-caption .heading {
     font-size: 20px;
   }
+
   #main-slide .carousel-item .carousel-caption p {
     font-size: 13px;
   }
+
   .countdown-timer .heading-count h2 {
     font-size: 25px;
   }
+
   .schedule .schedule-tab-title .nav-tabs .nav-link {
     width: 150px;
   }
+
   .schedule .card-header h4 {
     font-size: 14px;
   }
+
   #pricing .price-block-wrapper .pricing-list {
     padding: 10px 35px 10px 60px;
   }
+
   .about-item {
     margin-bottom: 30px;
   }
+
   .accordion .header-title {
     font-size: 12px;
   }
+
   #pricing .price-block-wrapper .pricing-list {
     padding: 10px 60px 10px 45px;
   }
+
   #sponsors .spnsors-logo {
     padding: 30px;
   }
+
   .padding-none:nth-child(1) {
     border-left: none;
   }
+
   .padding-none:nth-child(3) {
     border-left: none;
   }
+
   .padding-none:nth-child(4) {
     border-bottom: none;
     border-left: 1px solid #ddd;
   }
+
   .padding-none:nth-child(5) {
     border-bottom: none;
     border-left: none;
   }
+
   .padding-none:nth-child(6) {
     border-top: 1px solid #ddd;
     border-bottom: none;
   }
+
   .footer-area h3 {
     margin-top: 30px;
   }
+
+  /*  */
+  .layout-layer-3 .ajukan {
+    height: 315px;
+  }
+
+  .layout-layer-3 .ajukan img {
+    height: 355px;
+    width: 100%;
+  }
+
+  .layout-layer-3 .ajukan .download {
+
+    background-color: green;
+    transition: transform .2s;
+    /* Animation */
+    margin: 0 auto;
+    color: #fff;
+    margin-left: 20%;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #56CF71 0%, #319E49 100%);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.2);
+
+  }
+
+  .layout-layer-3 .ajukan a {
+
+    display: inline-block;
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 20%;
+    color: #ffffff;
+    line-height: 50px;
+    text-decoration: underline;
+
+  }
+
+  .layout-layer-3 .ajukan p {
+
+    font-size: 18px;
+    margin-top: 10%;
+    width: 80%;
+    margin-left: 20%;
+    color: #ffffff;
+    line-height: 50px;
+
+  }
+
 }
 
 /* mobile or only mobile */
@@ -158,138 +396,278 @@
   .section-title {
     font-size: 22px;
   }
+
   .section-sub {
     font-size: 16px;
   }
+
   #main-slide .carousel-caption {
     top: 22%;
   }
+
   #main-slide .carousel-item .carousel-caption .heading {
     font-size: 10px;
     margin-top: 5px;
     line-height: 1.5;
-    width: 100px; 
+    width: 100px;
     text-align: left;
   }
+
   #main-slide .carousel-item .carousel-caption p {
     font-size: 10px;
     line-height: 1.5;
-    width: 60px; 
+    width: 60px;
     text-align: left;
   }
+
   #main-slide .carousel-indicators {
     display: none;
   }
+
   #hero-area .contents {
     padding: 100px 0;
   }
+
   #hero-area .contents .head-title {
     font-size: 15px;
   }
+
   #hero-area .contents .btn {
     margin: 25px 3px 0 0;
   }
+
   .countdown-timer .heading-count {
     padding: 10px;
   }
+
   .countdown-timer .heading-count h2 {
     font-size: 24px;
   }
+
   .countdown-timer .heading-count h4 {
     font-size: 12px;
   }
+
   .schedule .card-body {
     padding: 15px;
   }
+
   .schedule .schedule-tab-title .nav-tabs .nav-link {
     width: 288px;
   }
+
   .accordion .header-title {
     font-size: 11px;
   }
+
   #pricing .price-block-wrapper .pricing-list {
     padding: 10px 30px 10px 40px;
   }
+
   #sponsors .spnsors-logo {
     margin-bottom: 15px;
   }
+
   .blog-item .descr h3 a {
     font-size: 18px;
   }
+
   .subscribe-inner {
     padding: 30px 15px;
   }
+
   .subscribe-inner .subscribe-title {
     font-size: 18px;
   }
+
   .subscribe-inner .form-inline {
     width: 100%;
   }
+
   .subscribe-inner .form-control {
     width: 100%;
   }
+
   .subscribe-inner .sub-btn {
     margin: 20px auto;
     text-align: center;
     position: inherit;
   }
+
   .container-form .form-wrapper {
     padding: 20px;
   }
+
   .contact-item {
     margin-bottom: 40px;
   }
+
   .thumb-left img {
     width: 60%;
   }
+
   #sponsors .spnsors-logo img {
     width: 80%;
   }
+
   .footer-area h3 {
     margin-top: 30px;
   }
+
   .padding-none:nth-child(1) {
     border-bottom: 1px solid #ddd;
   }
+
   .padding-none:nth-child(4) {
     border-bottom: 1px solid #ddd;
   }
+
   .padding-none:nth-child(5) {
     border-bottom: 1px solid #ddd;
   }
+
+  /*  */
+  .layout-layer-3 .ajukan {
+    height: 500px;
+  }
+
+  .layout-layer-3 .ajukan img {
+    height: 300px;
+    width: 100%;
+  }
+
+  .layout-layer-3 .ajukan .download {
+
+    background-color: green;
+    transition: transform .2s;
+    /* Animation */
+    margin: 0 auto;
+    color: #fff;
+    margin-left: 20%;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #56CF71 0%, #319E49 100%);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.2);
+
+  }
+
+  .layout-layer-3 .ajukan a {
+
+    display: inline-block;
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 20%;
+    color: #ffffff;
+    line-height: 50px;
+    text-decoration: underline;
+
+  }
+
+  .layout-layer-3 .ajukan p {
+
+    font-size: 18px;
+    margin-top: 10%;
+    width: 110%;
+    margin-left: 20%;
+    color: #ffffff;
+    line-height: 50px;
+
+  }
+
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
   #main-slide .carousel-item .carousel-caption .heading {
     letter-spacing: 0;
     line-height: 1.5;
-    width: 105px; 
+    width: 105px;
     text-align: left;
-   
+
   }
+
   #main-slide .carousel-item .carousel-caption p {
     font-size: 10px;
     line-height: 1.5;
-    width: 105px; 
+    width: 105px;
     text-align: left;
   }
+
   #main-slide .carousel-caption .btn {
     margin: 0;
   }
+
   #main-slide .carousel-indicators {
     display: none;
   }
+
   #about .title-sub {
     font-size: 24px;
   }
+
   .contact-map .container-form {
     width: 350px;
   }
+
   .newsletter-wrapper .sub-btn {
     padding: 11px 20px;
   }
+
   .btn {
     padding: 5px 7px;
     font-size: 13px;
   }
+
+  /*  */
+  .layout-layer-1 .bangkit2 td h5 {
+    font-size: 1rem;
+  }
+
+
+  .layout-layer-3 .ajukan {
+    height: 620px;
+  }
+
+  .layout-layer-3 .ajukan img {
+    height: 350px;
+    width: 100%;
+  }
+
+  .layout-layer-3 .ajukan .download {
+
+    background-color: green;
+    transition: transform .2s;
+    /* Animation */
+    margin: 0 auto;
+    color: #fff;
+    margin-left: 20%;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #56CF71 0%, #319E49 100%);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.2);
+
+  }
+
+  .layout-layer-3 .ajukan a {
+
+    display: inline-block;
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 20%;
+    color: #ffffff;
+    line-height: 50px;
+    text-decoration: underline;
+
+  }
+
+  .layout-layer-3 .ajukan p {
+
+    font-size: 18px;
+    margin-top: 10%;
+    width: 110%;
+    margin-left: 20%;
+    color: #ffffff;
+    line-height: 50px;
+
+  }
+
 }

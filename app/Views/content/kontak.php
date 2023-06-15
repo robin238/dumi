@@ -12,7 +12,7 @@
         <?= $this->include('navbar') ?>
 
         <div class="header">
-            Hubungi Kami <?php echo $title ; ?>
+            Hubungi Kami
         </div>
 
     </header>

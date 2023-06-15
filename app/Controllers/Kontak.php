@@ -7,10 +7,9 @@ class Kontak extends BaseController
     public function index()
     {
         $data = array(
-            'title' => 'Title'
+            'title' => 'Kontak'
         );
 
-		$this->load->view('layout/index', $data);
         return view('content/kontak', $data);
  
     }

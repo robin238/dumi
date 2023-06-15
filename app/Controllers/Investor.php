@@ -6,6 +6,9 @@ class Investor extends BaseController
 {
     public function index()
     {
-        return view('content/investor');
+        $data = array(
+            'title' => 'Investor'
+        );
+        return view('content/investor',$data);
     }
 }
