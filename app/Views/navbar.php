@@ -36,7 +36,7 @@
                      </a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link" href="https://dumi.minjem.com/">
+                     <a class="nav-link" href="https://dumi.minjem.com/" style="border:1px solid white;border-radius: 6px">
                          Masuk / Daftar
                      </a>
                  </li>

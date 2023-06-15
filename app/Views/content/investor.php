@@ -77,14 +77,14 @@
                         <div class="tab-pane fade" id="keuangan" role="tabpanel" aria-labelledby="keuangan-tab">
                             <div class="card">
                                 <div id="accordion3">
-                                    <p><a
-                                            href="../assets/dokumen/Audited-Financial-Statement-PT.-Fidac-Inovasi-Teknologi-2020.pdf">Laporan
+                                    <p style=margin-bottom:10px><a
+                                            href="../assets/dokumen/Audited-Financial-Statement-PT.-Fidac-Inovasi-Teknologi-2020.pdf" style="font-size:18px;color:#045089">Laporan
                                             Keuangan Tahun 2020 (Audited)</a></p>
-                                    <p><a
-                                            href="../assets/dokumen/Audited-Financial-Statement-PT.-Fidac-Inovasi-Teknologi-2021.pdf">Laporan
+                                    <p style=margin-bottom:10px><a
+                                            href="../assets/dokumen/Audited-Financial-Statement-PT.-Fidac-Inovasi-Teknologi-2021.pdf" style="font-size:18px;color:#045089">Laporan
                                             Keuangan Tahun 2021 (Audited)</a></p>
-                                    <p><a
-                                            href="../assets/dokumen/Audited-Financial-Statement-PT.-Fidac-Inovasi-Teknologi-2022.pdf">Laporan
+                                    <p style=margin-bottom:10px><a
+                                            href="../assets/dokumen/Audited-Financial-Statement-PT.-Fidac-Inovasi-Teknologi-2022.pdf" style="font-size:18px;color:#045089">Laporan
                                             Keuangan Tahun 2022 (Audited)</a></p>
                                 </div>
                             </div>
@@ -96,7 +96,6 @@
                             </div>
                         </div>
                     </div>
-                    <hr>
                 </div>
             </div>
         </div>
@@ -262,7 +261,14 @@
             </div>
             <br>
             <div>
-            <a href="../assets/dokumen/Akta-PT-Fidac-Inovasi-Teknologi-Tbk..pdf"><i class="fa-solid fa-file-lines" style="color: #949494;"></i>Akta Perusahaan</a>
+                <div class="col-3">
+
+              
+            <div class="col-3 text-center mt-5">
+                <a href="../assets/dokumen/Akta-PT-Fidac-Inovasi-Teknologi-Tbk..pdf"><i class="fa-solid fa-file-lines fa-2xl" style="color: #949494;font-size:120px"></i> </a>
+                <a href="../assets/dokumen/Akta-PT-Fidac-Inovasi-Teknologi-Tbk..pdf">Akta Perusahaan </a>
+            </div>
+            </div>
             </div>
 
         </div>
