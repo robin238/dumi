@@ -121,6 +121,20 @@ ol li {
   color: #54595F
 }
 
+.about-lembaga {
+  background: #f4f4f4;
+}
+
+.about-lembaga .card {
+  background:  #f4f4f4;
+  /* background: #f3f4f3; */
+}
+
+.accordion-lembaga{
+  background: #f3f4f3;
+}
+
+
 .part {
   padding: 0 5px 0 5px;
 }
@@ -1056,9 +1070,10 @@ a.back-to-top:focus {
   border-radius: 0px;
   position: relative;
   cursor: pointer;
-  height: 90px;
+  height: 70px;
   width: 255px;
-  border:  transparent;
+  border:transparent;
+  border-bottom:0;
   /* border-bottom: 1px solid #e5e5e5; */
   transition: all 500ms ease;
   padding: 20px 20px;
@@ -1095,14 +1110,14 @@ a.back-to-top:focus {
   font-weight: 400;
   text-transform: uppercase;
 }
-
+/* 
 .schedule .schedule-tab-title .item-text h5 {
   font-size: 14px;
   color: #848484;
   line-height: 16px;
   font-weight: 400;
   text-transform: capitalize;
-}
+} */
 
 /* .schedule .schedule-tab-content .tab-content {
   box-shadow: 1px 3px 15px rgba(0, 0, 0, 0.1);
@@ -2554,6 +2569,17 @@ a.back-to-top:focus {
 }
 
 /* [data-toggle="collapse"]~.fa:before {
+.lembaga [data-toggle="collapse"] .fa:before {
+  content: "\f068";
+
+}
+
+.lembaga [data-toggle="collapse"].collapsed .fa:before {
+  content: "\f078";
+
+}
+
+[data-toggle="collapse"]~.fa:before {
   content: "\f068";
 
 }
@@ -2637,3 +2663,6 @@ a.back-to-top:focus {
   /*  */
   padding: 0px 25px 0px 25px;
 }
+
+
+
