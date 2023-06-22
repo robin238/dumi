@@ -122,7 +122,12 @@ ol li {
 }
 
 .about-lembaga {
-  background: #f3f4f3;
+  background: #f4f4f4;
+}
+
+.about-lembaga .card {
+  background:  #f4f4f4;
+  /* background: #f3f4f3; */
 }
 
 .accordion-lembaga{
@@ -1067,7 +1072,8 @@ a.back-to-top:focus {
   cursor: pointer;
   height: 70px;
   width: 255px;
-  border:  transparent;
+  border:transparent;
+  border-bottom:0;
   /* border-bottom: 1px solid #e5e5e5; */
   transition: all 500ms ease;
   padding: 20px 20px;
@@ -1104,14 +1110,14 @@ a.back-to-top:focus {
   font-weight: 400;
   text-transform: uppercase;
 }
-
+/* 
 .schedule .schedule-tab-title .item-text h5 {
   font-size: 14px;
   color: #848484;
   line-height: 16px;
   font-weight: 400;
   text-transform: capitalize;
-}
+} */
 
 /* .schedule .schedule-tab-content .tab-content {
   box-shadow: 1px 3px 15px rgba(0, 0, 0, 0.1);
@@ -2555,6 +2561,16 @@ a.back-to-top:focus {
   height: 300px !important;
 }
 
+.lembaga [data-toggle="collapse"] .fa:before {
+  content: "\f068";
+
+}
+
+.lembaga [data-toggle="collapse"].collapsed .fa:before {
+  content: "\f078";
+
+}
+
 [data-toggle="collapse"]~.fa:before {
   content: "\f068";
 
@@ -2593,3 +2609,6 @@ a.back-to-top:focus {
 .kebijakan_privasi p:nth-child(even) {
   margin-bottom: 30px;
 }
+
+
+
