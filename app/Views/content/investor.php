@@ -103,7 +103,7 @@
     <!-- Schedule Section End -->
 
     <!-- About Section Start -->
-    <section id="about" class="section-padding">
+    <section id="about-lembaga" class="about-lembaga section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -114,7 +114,7 @@
                 </div>
             </div>
             <div style="margin-bottom:20px">
-                <div class="accordion">
+                <div class="accordion-lembaga">
                     <div class="card">
                         <div class="card-header" id="headingOne">
                             <h5 class="mb-0">
@@ -123,7 +123,6 @@
                                         aria-hidden="true"></i>
                                     Notaris
                                 </button>
-
                             </h5>
                         </div>
 
@@ -261,7 +260,7 @@
             </div>
             <br>
             <div>
-                <div class="col-3">
+            <div class="col-3">
 
               
             <div class="col-3 text-center mt-5">
