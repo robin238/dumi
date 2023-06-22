@@ -36,6 +36,7 @@ $routes->get('/kontak', 'Kontak::index');
 $routes->get('/investor', 'Investor::index'); 
 $routes->get('/syarat-ketentuan', 'Syarat_ketentuan::index'); 
 $routes->get('/disclaimer', 'Disclaimer::index'); 
+$routes->get('/kebijakan_privasi', 'kebijakan_privasi::index'); 
 
 /*
  * --------------------------------------------------------------------

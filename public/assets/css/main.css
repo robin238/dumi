@@ -116,9 +116,9 @@ ol li {
   margin-bottom: 15px;
 }
 
-.title-lembaga{
+.title-lembaga {
   font-size: 25px;
-  color:#54595F
+  color: #54595F
 }
 
 .part {
@@ -2340,6 +2340,8 @@ a.back-to-top:focus {
   color: white;
   font-size: 50px;
   font-weight: bold;
+  /*  */
+  line-height: 50px;
 }
 
 #main-slide .carousel-control-next,
@@ -2426,14 +2428,19 @@ a.back-to-top:focus {
   font-weight: 900;
 }
 
-.bangkit2 div div:first-child {
+/* .bangkit2 div div:first-child {
   width: 50%;
-}
+} */
 
 /* class apik */
 .apik {
   margin-top: 100px;
   margin-bottom: 100px;
+}
+
+.apik1 img {
+  width: 100%;
+  min-height: 250px;
 }
 
 
@@ -2546,7 +2553,7 @@ a.back-to-top:focus {
   height: 300px !important;
 }
 
-[data-toggle="collapse"]~.fa:before {
+/* [data-toggle="collapse"]~.fa:before {
   content: "\f068";
 
 }
@@ -2559,6 +2566,50 @@ a.back-to-top:focus {
 .btn_collapse {
   background-color: transparent;
   text-align: left;
+} */
+
+
+/* .wrapper {
+  width: 70%;
+} */
+
+@media(max-width:992px) {
+  .wrapper {
+    width: 100%;
+  }
+}
+
+.panel-heading {
+  padding: 0;
+  border: 0;
+}
+
+.panel-title>a,
+.panel-title>a:active {
+  display: block;
+  padding: 15px;
+  color: #030303;
+  font-size: 20px;
+  font-weight: bold;
+  /* text-transform: uppercase; */
+  letter-spacing: 1px;
+  word-spacing: 3px;
+  text-decoration: none;
+}
+
+.panel-heading a:before {
+  /* font-family: 'Glyphicons Halflings'; */
+  content: "\2304";
+  float: right;
+  transition: all 0.5s;
+}
+
+.panel-heading.active a:before {
+  content: "\2212";
+}
+
+.panel-body {
+  margin-left: 20px;
 }
 
 /* .syarat ol {
@@ -2571,16 +2622,18 @@ a.back-to-top:focus {
   content: counters(item, ".") " ";
   counter-increment: item;
 } */
-.kebijakan_privasi p {
-  margin: 0 0 10px;
-  /* font-family: 'Lato', sans-serif; */
-  text-align: justify;
+/* .kebijakan_privasi p {
+  margin: 0 0 10px; */
+/* font-family: 'Lato', sans-serif; */
+/* text-align: justify;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.65;
   color: #383838;
-}
+} */
 
-.kebijakan_privasi p:nth-child(even) {
+.kebijakan_privasi p {
   margin-bottom: 30px;
+  /*  */
+  padding: 0px 25px 0px 25px;
 }
