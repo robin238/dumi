@@ -578,18 +578,23 @@
 
 @media (min-width: 320px) and (max-width: 480px) {
   #main-slide .carousel-item .carousel-caption .heading {
+    font-size: 25px;
     letter-spacing: 0;
     line-height: 1.5;
-    width: 105px;
-    text-align: left;
+    width: 300px;
+    text-align: center;
 
   }
 
   #main-slide .carousel-item .carousel-caption p {
-    font-size: 10px;
-    line-height: 1.5;
-    width: 105px;
-    text-align: left;
+    font-size: 25px !important;
+    line-height: 1.5 !important;
+    width: 300px !important;
+    text-align: center !important;
+  }
+
+  #main-slide .carousel-item img {
+    background-size: contain;
   }
 
   #main-slide .carousel-caption .btn {
@@ -668,6 +673,10 @@
     color: #ffffff;
     line-height: 50px;
 
+  }
+
+  .bangkit2 {
+    text-align: center;
   }
 
 }

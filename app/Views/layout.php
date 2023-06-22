@@ -13,27 +13,32 @@
 
         <!-- Main Carousel Section Start -->
         <div id="main-slide" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
+            <!-- <ol class="carousel-indicators">
                 <li data-target="#main-slide" data-slide-to="0" class="active"></li>
                 <li data-target="#main-slide" data-slide-to="1"></li>
                 <li data-target="#main-slide" data-slide-to="2"></li>
-            </ol>
+            </ol> -->
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="assets/img/slider/header_web_1920.png" alt="First slide">
+                    <img class="d-block w-100 latar" src="assets/img/slider/header_web_1920.png" alt="First slide"
+                        style="min-height: 650px; object-fit: cover;object-position: 10% 100%;">
                     <div class="carousel-caption d-md-block">
-                        <h1 class="wow fadeInDown heading" data-wow-delay=".4s">
-                            Wujudkan Segala Kebutuhan dengan Dana
-                            Multiguna</h1>
-                        <p class="fadeInUp wow" data-wow-delay=".6s">Plafon
-                            hingga Rp300 juta dan tenor maksimal 10.
-                            tahun.</p>
-                        <span>
-                            <p class="fadeInUp wow" data-wow-delay=".6s" style="margin-top: 5px">Berizin & diawasi</p>
-                        </span>
                         <div class="row">
-                            <div>
-                                <img class=" izin" src="assets/img/dumi/OJK.png" alt="">
+                            <span>
+                                <h1 class="wow fadeInDown heading" data-wow-delay=".4s">
+                                    Wujudkan Segala Kebutuhan dengan Dana
+                                    Multiguna</h1>
+                                <p class="fadeInUp wow" data-wow-delay=".6s">Plafon
+                                    hingga Rp300 juta dan tenor maksimal 10.
+                                    tahun.</p>
+
+                                <p class="fadeInUp wow" data-wow-delay=".6s" style="margin-top: 5px">Berizin & diawasi
+                                </p>
+                            </span>
+                        </div>
+                        <div class="row">
+                            <div class="mr-5">
+                                <img class="izin" src="assets/img/dumi/OJK.png" alt="">
                             </div>
                             <div>
                                 <img class="izin" src="assets/img/dumi/afpi.png" alt="">
@@ -61,14 +66,14 @@
                     </div>
                 </div> -->
             </div>
-            <a class="carousel-control-prev" href="#main-slide" role="button" data-slide="prev">
+            <!-- <a class="carousel-control-prev" href="#main-slide" role="button" data-slide="prev">
                 <span class="carousel-control" aria-hidden="true"><i class="lni-chevron-left"></i></span>
                 <span class="sr-only">Previous</span>
             </a>
             <a class="carousel-control-next" href="#main-slide" role="button" data-slide="next">
                 <span class="carousel-control" aria-hidden="true"><i class="lni-chevron-right"></i></span>
                 <span class="sr-only">Next</span>
-            </a>
+            </a> -->
         </div>
         <!-- Main Carousel Section End -->
 
@@ -89,89 +94,98 @@
                         Aparatur Sipil Negara di
                         Indonesia.</p>
                 </div>
+
                 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 bangkit2">
 
-                    <!-- <table>
-                        <tr>
-                            <td> <img src="assets/img/dumi/money.png" alt=""></td>
-                            <td>
-                                <h5>Rp 632 M</h5>
-                                <p>Pendanaan Sejak Berdiri</p>
-                            </td>
-                            <td> <img src="assets/img/dumi/coin.png" alt=""></td>
-                            <td>
-                                <h5>Rp 162 M</h5>
-                                <p>Pendanaan Tahun Ini</p>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td> <img src="assets/img/dumi/user.png" alt=""></td>
-                            <td>
-                                <h5>8.678</h5>
-                                <p>Total Penerima Dana</p>
-                            </td>
-                            <td> <img src="assets/img/dumi/build.png" alt=""></td>
-                            <td>
-                                <h5>3 Institusi</h5>
-                                <p>Pemberi Dana</p>
-                            </td>
-                        </tr>
-                    </table> -->
+                    <div class="row">
 
-
-                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                                <img src="assets/img/dumi/money.png" alt="">
-                                <h5>Rp 632 M</h5>
-                                <p>Pendanaan Sejak Berdiri</p>
-                            </div>
-                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                                <img src="assets/img/dumi/money.png" alt="">
-                                <h5>Rp 632 M</h5>
-                                <p>Pendanaan Sejak Berdiri</p>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                                <div class="row">
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                            <div class="row">
+                                <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
                                     <img src="assets/img/dumi/money.png" alt="">
-                                    <h5>Rp 632 M</h5>
+                                </div>
+                                <div class="col-xs-4 col-sm-8 col-md-8 col-lg-8">
+
+                                    <h5>Rp 633 M</h5>
                                     <p>Pendanaan Sejak Berdiri</p>
                                 </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                                <div class="row">
-                                    <img src="assets/img/dumi/money.png" alt="">
-                                    <h5>Rp 632 M</h5>
-                                    <p>Pendanaan Sejak Berdiri</p>
-                                </div>
+
                             </div>
                         </div>
+
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                            <div class="row">
+                                <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                                    <img src="assets/img/dumi/money.png" alt="">
+                                </div>
+                                <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
+
+                                    <h5>Rp 633 M</h5>
+                                    <p>Pendanaan Sejak Berdiri</p>
+                                </div>
+
+                            </div>
+                        </div>
+
                     </div>
+
+                    <div class="row">
+
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                            <div class="row">
+                                <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                                    <img src="assets/img/dumi/money.png" alt="">
+                                </div>
+                                <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
+
+                                    <h5>Rp 633 M</h5>
+                                    <p>Pendanaan Sejak Berdiri</p>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                            <div class="row">
+                                <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                                    <img src="assets/img/dumi/money.png" alt="">
+                                </div>
+                                <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
+
+                                    <h5>Rp 633 M</h5>
+                                    <p>Pendanaan Sejak Berdiri</p>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+
+
 
                 </div>
 
-                <div class="row apik">
-                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 apik1">
-                        <img src="../assets/img/dumi/apik.png" alt="">
-                    </div>
-                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 apik2">
 
-                        <h2> Melayani Secara APIK</h2>
 
-                        <p> Dumi APIK merupakan semangat baru Dumi dalam membangun kesadaran masyarakat tentang
-                            inklusi
-                            keuangan yang memiliki banyak manfaat untuk mewujudkan kehidupan yang lebih baik.</p>
-
-                    </div>
-
-                </div>
             </div>
 
+
+            <div class="row apik">
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 apik1">
+                    <img src="../assets/img/dumi/apik.png" alt="">
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 apik2">
+
+                    <h2> Melayani Secara APIK</h2>
+
+                    <p> Dumi APIK merupakan semangat baru Dumi dalam membangun kesadaran masyarakat tentang
+                        inklusi
+                        keuangan yang memiliki banyak manfaat untuk mewujudkan kehidupan yang lebih baik.</p>
+
+                </div>
+
+            </div>
 
     </section>
 
